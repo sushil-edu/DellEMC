@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "/Users/abc/.android/build-cache/46ecbb0a8fcf8b533fbfef757de4f2c2e121826d/output/res/layout-sw600dp-v13/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "/Users/user/.android/build-cache/fa68691b45ab6d57b9ffadf8eb2a3b3737b856df/output/res/layout-sw600dp-v13/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "/Users/mac/.android/build-cache/c6c6111b3bf05ba16af7dfa0b11c69abf316b5b8/output/res/layout-sw600dp-v13/design_layout_snackbar.xml"
+    }
+]

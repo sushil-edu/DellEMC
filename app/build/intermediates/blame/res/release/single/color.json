@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/color/abc_tint_edittext.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/color/wallet_secondary_text_holo_dark.xml",
+        "source": "/Users/mac/.android/build-cache/867ed9450c91d4242e9fd2b78163a84a20fd3111/output/res/color/wallet_secondary_text_holo_dark.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/color/wallet_primary_text_holo_light.xml",
+        "source": "/Users/mac/.android/build-cache/867ed9450c91d4242e9fd2b78163a84a20fd3111/output/res/color/wallet_primary_text_holo_light.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/color/abc_hint_foreground_material_light.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/color/design_error.xml",
+        "source": "/Users/mac/.android/build-cache/c6c6111b3bf05ba16af7dfa0b11c69abf316b5b8/output/res/color/design_error.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/color/abc_primary_text_material_light.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/color/abc_btn_colored_text_material.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/color/abc_search_url_text.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/color/abc_tint_seek_thumb.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/mac/.android/build-cache/5f3b8680e10508e19376b9b839800378cee76c59/output/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/color/switch_thumb_material_dark.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/color/switch_thumb_material_light.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/color/abc_hint_foreground_material_dark.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/color/abc_tint_default.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/color/design_tint_password_toggle.xml",
+        "source": "/Users/mac/.android/build-cache/c6c6111b3bf05ba16af7dfa0b11c69abf316b5b8/output/res/color/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/color/abc_tint_switch_track.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/color/abc_tint_btn_checkable.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/color/abc_tint_switch_thumb.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/color/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/color/abc_tint_spinner.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/mac/.android/build-cache/5f3b8680e10508e19376b9b839800378cee76c59/output/res/color/common_google_signin_btn_text_dark.xml"
+    }
+]

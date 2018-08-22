@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/loginimage"
+    android:orientation="vertical"
+    tools:context="com.kestone.dellpartnersummit.Activities.AttendanceActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_centerInParent="true"
+        android:paddingTop="100dp">
+
+        <com.kestone.dellpartnersummit.widget.MyBoldTextView
+            android:id="@+id/welcomeTv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginLeft="60dp"
+            android:layout_marginRight="60dp"
+            android:layout_marginBottom="10dp"
+            android:textColor="@color/white"
+            android:text="Welcome to Dell EMC Partner Summit 2017"/>
+
+
+        <com.kestone.dellpartnersummit.widget.MyTextView
+            android:id="@+id/venueTv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:gravity="center"
+            android:text="Venue"
+            android:textColor="@color/white"
+            android:textSize="12sp" />
+
+        <com.kestone.dellpartnersummit.widget.MyTextView
+            android:id="@+id/checkinRl"
+            android:layout_width="match_parent"
+            android:layout_marginLeft="60dp"
+            android:layout_marginRight="60dp"
+            android:layout_height="35dp"
+            android:background="@color/colorPrimary"
+            android:gravity="center"
+            android:layout_gravity="center_horizontal"
+            android:text="Got it"
+            android:textColor="@color/white"
+            android:textStyle="bold"
+            android:layout_marginTop="40dp"/>
+
+
+    </LinearLayout>
+
+
+</RelativeLayout>

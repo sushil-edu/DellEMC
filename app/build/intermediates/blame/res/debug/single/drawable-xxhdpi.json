@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_location_grey.png",
+        "source": "/Android Projects/Kestone Projects/EventApp/app/src/main/res/drawable-xxhdpi/ic_location_grey.png"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_arrow_back.png",
+        "source": "/Users/user/Desktop/EventApp/app/src/main/res/drawable-xxhdpi/ic_arrow_back.png"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_add_grey.png",
+        "source": "/Android Projects/Kestone Projects/EventApp/app/src/main/res/drawable-xxhdpi/ic_add_grey.png"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_location_grey.png",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/drawable-xxhdpi/ic_location_grey.png"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_arrow_back.png",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/drawable-xxhdpi/ic_arrow_back.png"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_add_grey.png",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/drawable-xxhdpi/ic_add_grey.png"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_camera_grey.png",
+        "source": "/Users/user/Desktop/EventApp/app/src/main/res/drawable-xxhdpi/ic_camera_grey.png"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_arrow_back.png",
+        "source": "/Android Projects/Kestone Projects/EventApp/app/src/main/res/drawable-xxhdpi/ic_arrow_back.png"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_location_grey.png",
+        "source": "/Users/user/Desktop/EventApp/app/src/main/res/drawable-xxhdpi/ic_location_grey.png"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_add_grey.png",
+        "source": "/Users/user/Desktop/EventApp/app/src/main/res/drawable-xxhdpi/ic_add_grey.png"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_camera_grey.png",
+        "source": "/Android Projects/Kestone Projects/EventApp/app/src/main/res/drawable-xxhdpi/ic_camera_grey.png"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_camera_grey.png",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/drawable-xxhdpi/ic_camera_grey.png"
+    }
+]

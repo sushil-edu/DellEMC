@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="300dp"
+    android:layout_height="match_parent"
+    android:focusableInTouchMode="true">
+
+    <com.kestone.dellpartnersummit.widget.MyTextView
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:text="Rate Session"
+        android:gravity="center"
+        android:textColor="@color/colorPrimary"
+        android:textSize="10sp"
+        android:textStyle="bold"
+        android:layout_marginTop="20dp"/>
+
+    <com.kestone.dellpartnersummit.widget.MyTextView
+        android:id="@+id/labelTv"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:text="Disruptive Innovations in Bussiness Management"
+        android:gravity="center"
+        android:textColor="@color/black"
+        android:textSize="10sp"
+        android:textStyle="bold"/>
+
+    <android.support.v7.widget.AppCompatRatingBar
+        android:id="@+id/mRatingBar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:numStars="5"
+        android:layout_marginTop="10dp"
+        android:layout_margin="10dp"
+        android:scaleY="0.6"
+        android:scaleX="0.6"
+        android:layout_gravity="center_horizontal"/>
+
+    <com.kestone.dellpartnersummit.widget.MyEditText
+        android:id="@+id/txtFeedback"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:singleLine="true"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:hint="Share your feedback for the session"
+        android:textSize="10sp"
+        android:gravity="center" />
+
+    <com.kestone.dellpartnersummit.widget.MyButton
+        android:id="@+id/btnRating"
+        android:layout_width="100dp"
+        android:layout_height="30dp"
+        android:background="@color/colorPrimary"
+        android:layout_gravity="center_horizontal"
+        android:text="Submit"
+        android:textColor="@color/white"
+        android:textSize="12sp"
+        android:textAllCaps="false"
+        android:layout_margin="40dp"/>
+
+
+
+</LinearLayout>

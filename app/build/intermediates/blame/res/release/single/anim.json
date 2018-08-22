@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/anim/design_fab_out.xml",
+        "source": "/Users/mac/.android/build-cache/c6c6111b3bf05ba16af7dfa0b11c69abf316b5b8/output/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/anim/design_snackbar_in.xml",
+        "source": "/Users/mac/.android/build-cache/c6c6111b3bf05ba16af7dfa0b11c69abf316b5b8/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/anim/splash.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/anim/splash.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/anim/design_fab_in.xml",
+        "source": "/Users/mac/.android/build-cache/c6c6111b3bf05ba16af7dfa0b11c69abf316b5b8/output/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/anim/slide_left_out.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/anim/slide_left_out.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/anim/grow_from_top.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/anim/grow_from_top.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/anim/wait_screen.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/anim/wait_screen.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/anim/slide_left_in.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/anim/slide_left_in.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/anim/design_snackbar_out.xml",
+        "source": "/Users/mac/.android/build-cache/c6c6111b3bf05ba16af7dfa0b11c69abf316b5b8/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/anim/grow_from_bottom.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/anim/grow_from_bottom.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/mac/.android/build-cache/c6c6111b3bf05ba16af7dfa0b11c69abf316b5b8/output/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/mac/.android/build-cache/c6c6111b3bf05ba16af7dfa0b11c69abf316b5b8/output/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/anim/abc_fade_out.xml"
+    }
+]

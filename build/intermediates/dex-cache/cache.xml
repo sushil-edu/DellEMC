@@ -1,0 +1,725 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/abc/.android/build-cache/21704dd291745eeb66ce5c679c770c31e15c2ec0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Android Projects/Kestone Projects/EventApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5d36183607a0f3762bd12c63a34675066fd309db/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abc/.android/build-cache/a0f2f8e8e739032ccaad19f771593343f5f1e6f4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/Android Projects/Kestone Projects/EventApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8e28edd972e7fb2091e05867ed1731e46af3d0c9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abc/.android/build-cache/55c3e3adf3cb14b81b2a85796c4659b30d2d302d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Android Projects/Kestone Projects/EventApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_34c11e14c6a7531105951131edb976dd379fadac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abc/.android/build-cache/d726d51eb6e79a49f963792e325fa44b43fbc47a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Android Projects/Kestone Projects/EventApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_85069ab07439e4916cce3f46a6dbaf9c8e2154e2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abc/.android/build-cache/990ab016d1fc2241963acb29e72a7d900277696a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45305e6af414dab5aba6c3225081c2f15c3bdd1e">
+        <dex dex="/Android Projects/Kestone Projects/EventApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_60fb8981b4812b92d51b6fe2256fdfbdef3a38fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abc/.android/build-cache/5aef93610b1f16cc8d1355ab8da2af12d1858723/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/Android Projects/Kestone Projects/EventApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6eb3c7d11fe8f0c3ce66747348c266424365bbdb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abc/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/5a11f020cce2d11eb71ba916700600e18c4547e7/okhttp-3.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
+        <dex dex="/Android Projects/Kestone Projects/EventApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.8.0_8c20f0a50e6e032f91705a7d0e9e3247c4746cac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abc/.android/build-cache/dad637ee9be66aae36b536a5a3f80510d14d068e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
+        <dex dex="/Android Projects/Kestone Projects/EventApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dc699735c7a6b93c999a540944db86310858c81f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abc/.android/build-cache/e26cdef3ead66186c70049bdf087c1c5ab51e4a1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="/Android Projects/Kestone Projects/EventApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_016134cc027b23fcfd7ea0f2fa36d6222df9f4fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abc/.android/build-cache/c7004928747c59804a33f38578ddb00ff3703017/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c346058854421b89e04449a5c416673c0b9f11f2">
+        <dex dex="/Android Projects/Kestone Projects/EventApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0c996517f70670d1d979e6ee84527e9545afdd91/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abc/.android/build-cache/786a1513ddada99131f6d85e85abca9415938089/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
+        <dex dex="/Android Projects/Kestone Projects/EventApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f88a6acd0e3722f96065ae8c08c0d739bb597de3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abc/.android/build-cache/51cdb749a6f109e000ffced9f3a728ebbc65502f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="/Android Projects/Kestone Projects/EventApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c2fe1e361025b399ccc27d92dd49e6dcee937d91/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abc/.android/build-cache/f1e8d6d5f2b09efde3ae8ca2327c139891ed52e3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/Android Projects/Kestone Projects/EventApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_68570a236de3ff9d8ef134bc677f58fac44dce00/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abc/.android/build-cache/feed342e77d8dffd8bbd85c10821c8348e01edd4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="/Android Projects/Kestone Projects/EventApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_60cfe7dbcbdc52d44f0c25ee6813b2a92bdbb45b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abc/.android/build-cache/0f3663bacc34ea11fa3e51e33256547b9d9d895f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Android Projects/Kestone Projects/EventApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_afca1d503fa65bd0696b3739fb689ce6cf9bf8c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abc/.android/build-cache/6d5cf69e2181ff32ca27e0fab8711ac9f0f32996/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
+        <dex dex="/Android Projects/Kestone Projects/EventApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_59e15d74db9bae194c57c792f0e76325ce038ba6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abc/.android/build-cache/5ed81143ebe28ae2e18703aae14c7f85ed54815a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Android Projects/Kestone Projects/EventApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_76b25735594f8d315e67c95e9084073695bdf7e0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abc/.android/build-cache/4ae4a5f08fdc628a033ba791a0101fd9bdde011b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="/Android Projects/Kestone Projects/EventApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_593131e0819375edf6ca51f246d5c895a76894b1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abc/.android/build-cache/3e5ef796df7d9b05518de4d0e7a6ebf1f881ddfc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Android Projects/Kestone Projects/EventApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3cdd81a68844311fa8bb118aeb341ea506dc005b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abc/.android/build-cache/03dfdf1df61c6dcec0c649d50258c4b35c43d428/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c6e1f361e9d61aece9dac39b77fcc98a337a144d">
+        <dex dex="/Android Projects/Kestone Projects/EventApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2c7e89f14aa8521d79ed5457b8dd509353bdf6bc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abc/.android/build-cache/c08efa55ce43da4353ac3de4e9ec1cc22b24e1e6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
+        <dex dex="/Android Projects/Kestone Projects/EventApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4763f569fc268dad1fb8426d86539b7d3c2a5132/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abc/.android/build-cache/b889318c078aeafbb4f7114152b29b8427d03050/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="/Android Projects/Kestone Projects/EventApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_db90d0043b2cd67422bc72fff6bf771cb8ab2ba1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abc/.android/build-cache/e5e750c70d4a4f912f06632fee1ed3302f29fd7f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
+        <dex dex="/Android Projects/Kestone Projects/EventApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6900d15919406366b5e0f41013341cb40436c17c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abc/.android/build-cache/4ecff472dc7e3b53e8785df48e5ce37a17199de1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Android Projects/Kestone Projects/EventApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ff52c839083c4502e7333eaf5689ba8bcb5c6354/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abc/.android/build-cache/18f66aced5ecb2d5afc8d58ee878a7c4e51d25d9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
+        <dex dex="/Android Projects/Kestone Projects/EventApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1683d7da0e40c9bd39741464c8dc1e73ec7e1547/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abc/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Android Projects/Kestone Projects/EventApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.13.0_cfe2074c54eb1cb7685371ddd8e68c367df5cbe0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abc/.android/build-cache/b2537d4e11da07e7e68ee822b8510c83955c3104/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
+        <dex dex="/Android Projects/Kestone Projects/EventApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cf83c6563ef601fe1531edf21438dc60ed08dfb5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abc/.android/build-cache/02dc7f76e2e34056b40b0717bf131a89da0cdce6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Android Projects/Kestone Projects/EventApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c3227b12c7b6a089bb78327e1b086d9698e641d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abc/.android/build-cache/06a7f2cf744ab10520421668c0f93fcf5543b290/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="/Android Projects/Kestone Projects/EventApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fae984ab474e0bb317d86c424510871189017cce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abc/.android/build-cache/4d5705f8516ceafe6684b0082c64ecc34c4774ca/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="/Android Projects/Kestone Projects/EventApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_63d8965ce4092d08b280a62d5089a260147e0a71/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abc/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Android Projects/Kestone Projects/EventApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_8bebdda25c8d3945eaa256f37257d1c2d9bc0ae6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abc/.android/build-cache/fee1c5dcdea6ba3e051ddaf63588af91795c8b1a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="81e4c94a262d209675bbbf17a8d4f85610f14702">
+        <dex dex="/Android Projects/Kestone Projects/EventApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8054a0e3555350d96870b2db02e4d3362f1fd339/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abc/.android/build-cache/f4dbc32a2d4f5fb3fed3d0dbaee5ecd79b77025e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="/Android Projects/Kestone Projects/EventApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_77d89f0a210b95ce64693e1bcbeab7b82b0bf716/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abc/.android/build-cache/46ecbb0a8fcf8b533fbfef757de4f2c2e121826d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Android Projects/Kestone Projects/EventApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a96cdc3d52322f4ad3096948aa8f206237abba3a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abc/.android/build-cache/ab99b4f626a489823d8eda63f4ec94639604fd7d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/Android Projects/Kestone Projects/EventApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_951c5471de416fc6453b7f01f179a81bc6f64b6c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abc/.android/build-cache/67295b604e3813d9a8f7b7a15edd993023b4ca5a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="971509bbe30bb7b971fc1c49d7b23d0d818830ac">
+        <dex dex="/Android Projects/Kestone Projects/EventApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_714687ea239bed5d0689b353ffe9ea0599f07568/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abc/.android/build-cache/d8ee37303f5b252898b19c05d51b8393f5c75e4f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Android Projects/Kestone Projects/EventApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6d70f4a712c5bc482a9bf6939f9ebf20d0208c8f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abc/.android/build-cache/1a1dec7e698a6fff20d6fea3e7fd66fa268d4aff/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
+        <dex dex="/Android Projects/Kestone Projects/EventApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_42205dfad0728c499ab9c947391579a44b83665e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abc/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Android Projects/Kestone Projects/EventApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_df1e81be8a6c2f01307bf466e538fd8f7d8af821/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abc/.android/build-cache/a978b7f7fd020edc3b2dc4c8cb6a02ffb8f094e9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="/Android Projects/Kestone Projects/EventApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5276ecd597c0c1b2cba7070bfdd2327d791ee3cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abc/.android/build-cache/8f4ca08a5672b0c861c454306c27b7adf7b30cc2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
+        <dex dex="/Android Projects/Kestone Projects/EventApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_352fc878317e8bbf8a5d4d9e2f8bec8af68cc943/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abc/.android/build-cache/adfe79515e8013acb8b153ab433aa1a70c8e9a7a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="/Android Projects/Kestone Projects/EventApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3a20fc104ff96cbf5310fade9cdfd6e4576b93ea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abc/.android/build-cache/9f2e38e89f64e0dfcf7aca2acea888c62c0bf3fe/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c77133cea1b914c8f8f8c8d8b0acba8c5f21a1f8">
+        <dex dex="/Android Projects/Kestone Projects/EventApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_02911de33be2548b2e48bc0092550776be59cf03/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abc/.android/build-cache/5b5438a0438e8c5993b9c8d03da8ff1758035734/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
+        <dex dex="/Android Projects/Kestone Projects/EventApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1b3a0693bdc730ef8567929b67f50ee74ab137fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abc/.android/build-cache/39149a0c8b8670c76d1b65f28562e45ca442fcd8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="/Android Projects/Kestone Projects/EventApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_432468462ef75a14cf052ae57d1992b37f4ca9de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abc/.android/build-cache/9850d447ee19347940f2be31fb171d0a4a93851f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/Android Projects/Kestone Projects/EventApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3193b53866cf4f966190e7fd023211fd3b8758d1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abc/.android/build-cache/9ba1bf20df0c34366e974977278ce5809f99fd56/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="/Android Projects/Kestone Projects/EventApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_15672c319fba6f17657e1cf0ef2eca416f949dae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abc/.android/build-cache/b1dc5177cce360c469592d0839fba13caaebc69a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="/Android Projects/Kestone Projects/EventApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bc30ea5ec6e860d38fa4b60d7578da02fc4061d2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abc/.android/build-cache/f8e62f940c9627cf692d9eecf7a5f1e227bc07d0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="/Android Projects/Kestone Projects/EventApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3e4e20c04546eb9dfe12963a30eae4cb83abfc0d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abc/.android/build-cache/89a7431a7d94aa3ec4167a4fe5904b6ecb6ae011/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Android Projects/Kestone Projects/EventApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d53ff5e8009c969f864a16121c9151d3946c1fa0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abc/.android/build-cache/39e357529ac49596146f37b9f76a5e2f18a20be0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="/Android Projects/Kestone Projects/EventApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8dcca11d003f1abc7875db81e35645a0a51cda5d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abc/.android/build-cache/49e4a52305d2023c9d61b0ed22ded0fae7c054a2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
+        <dex dex="/Android Projects/Kestone Projects/EventApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e982b22963fbbe031e8b76d2ca5f2a5ecb379b12/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abc/.android/build-cache/cd5383a4b6b22d9bc532a50ea67bca1be8e1fb2b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cbbba3adcc22e51c92f10f9f6667bfee15871c6f">
+        <dex dex="/Android Projects/Kestone Projects/EventApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_93cc46fb1436c22d9d4774673a322ad4505a7531/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abc/.android/build-cache/c2a1e9c6ae7fb45a613ca2a46a0aa475eae98926/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa046fc64b815b64b0c0d0e8ae80f1ca14494d28">
+        <dex dex="/Android Projects/Kestone Projects/EventApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7fcbaac6f49c2287e82ad3f0cf4894aa504ff361/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abc/.android/build-cache/983056e708f8e9270728c20ba9f325507b358866/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Android Projects/Kestone Projects/EventApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_db55948eff936cbe4b69f5781396073c55ff4d11/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abc/.android/build-cache/0cf1d082cc992913ad592bc516d08f58a10bfefe/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="/Android Projects/Kestone Projects/EventApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f3302e41bf6707cbf78a9886b9a316ff3a72a8cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abc/.android/build-cache/0b6824146640e421accbab0918ee4d5f9e7c4bfa/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/Android Projects/Kestone Projects/EventApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_aa54662fc65a4a40b0e60b744d586db8510f8310/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abc/.android/build-cache/3593e61c9c2a9a4df81600c7c4d8992f27476271/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1e11c68fec92a17c84dd8d1dd80e74c4e67b12e2">
+        <dex dex="/Android Projects/Kestone Projects/EventApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3bf5ef0b629b074440014deec67d3a622b22a8af/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abc/.android/build-cache/77b04dd30aeffd0b1751869735ee7fa050cf31bd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Android Projects/Kestone Projects/EventApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_361320c7d619f5659c1e51015a76a6e902992f4e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abc/.android/build-cache/afe127c51ba75bb13ddb55a316bbae09719c86f3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/Android Projects/Kestone Projects/EventApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_601862ce06ee68a6c83902fdd84088b16ae1ce4d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abc/.android/build-cache/2139370e62b78ca81aa7de337bf74575d4fed557/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/Android Projects/Kestone Projects/EventApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_aa1599e71e707ea81d2bc5250b3f0d07dabada85/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abc/.android/build-cache/c2752ca2fcf850d5cb005bccf584a99066db2c96/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f64eb65137748aa084d8e746b08911102b82a25d">
+        <dex dex="/Android Projects/Kestone Projects/EventApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fb6aa722fbbfa2030d551f6bea0bcbe661eb0504/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abc/.android/build-cache/408b2900039d182666ad784f8355429f6b2a8dfb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a48dc0b148059764d32500be558702d5ff932058">
+        <dex dex="/Android Projects/Kestone Projects/EventApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fdfabcc93dc7ab76b11d10b3b606fbbc8eaf2431/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abc/.android/build-cache/b0b78f3850640f9466b70728c229045dcb5ffe34/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c341a7ad32bc2eef9dcfab239262b77ac60788cc">
+        <dex dex="/Android Projects/Kestone Projects/EventApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bf4f300f95ac351333478b85ce969fff17fef67d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abc/.android/build-cache/6273d233f55765e766f904b5ff43f6dfd00273e3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Android Projects/Kestone Projects/EventApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c72c8c899c0553e79e2543fd613d6a86ba551e7d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abc/.android/build-cache/010017c042d5bd053f28252507f3f020c32d3867/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
+        <dex dex="/Android Projects/Kestone Projects/EventApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ec9ea3e4dd1b818cd9dedb4e7aaf71278d56acab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abc/.android/build-cache/385620bd9ee94bd6ad0706aeb1cfa3db541b2f42/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6666dd525c3da197e7d07f4f23ef5fc7881a697b">
+        <dex dex="/Android Projects/Kestone Projects/EventApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_aeb0bd27f24b90494ff39f0a4f27581e65c78f4e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abc/.android/build-cache/2b3203854fafc17c02943d03e5f8bcc78665974d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="/Android Projects/Kestone Projects/EventApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_36b1510cf0f409468e7c755eb3af24a2f397eb41/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abc/.android/build-cache/0b6824146640e421accbab0918ee4d5f9e7c4bfa/output/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/Android Projects/Kestone Projects/EventApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_e4b58a35ecd3a6e373a6df3f3f638db7f09b740a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abc/.android/build-cache/8cf2aebe7102a12219d1cd515f09b37d1e1a2980/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="/Android Projects/Kestone Projects/EventApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3201630fa6510bbcc2f1a72b3a9d21e9325ce338/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abc/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Android Projects/Kestone Projects/EventApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_d47e80d937559f60c195dba61f253abbadde3e86/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abc/.android/build-cache/e0c5e9645d804d919c0b9bfaf6401984a590bcaa/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="/Android Projects/Kestone Projects/EventApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_59a6dde76608af9a694f8e2c37cf9d6b28536e5c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abc/.android/build-cache/52652b936296db737b5774af5346fe8f3b977167/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
+        <dex dex="/Android Projects/Kestone Projects/EventApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_867079e0b160f2ec4c1c2887b0f89b3fe439e088/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abc/.android/build-cache/4e522d9ec1c2b195216f0e982b8dc83910a375b8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1a9699328fef3049a965077ef2f2c4f0ab7d64b0">
+        <dex dex="/Android Projects/Kestone Projects/EventApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_153210532750ae03b67ebfd1b3296d1e4f640d38/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abc/.android/build-cache/e218b7eae1c97f9ae80123865c0c2ff8beee35cf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
+        <dex dex="/Android Projects/Kestone Projects/EventApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0e6c1cbb1e1a6d47bc95f76e047e4f8707c36c0e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abc/.android/build-cache/14dd71bfea96f56e27b6b0a0ac37540d19b4d533/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
+        <dex dex="/Android Projects/Kestone Projects/EventApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_33bef7865f542959076fb0304e9a59550330721f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abc/.android/build-cache/014afed7de93866a95ca55258e34bf2a3cdbff2f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
+        <dex dex="/Android Projects/Kestone Projects/EventApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3662347256bcf1d91dd8af7ee06c782d465714fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abc/.android/build-cache/17d09fabe1b5f8ef93b06a63638f452ba7f69743/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Android Projects/Kestone Projects/EventApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_696e8218d7ec837c63f710744451ad913488dd74/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abc/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Android Projects/Kestone Projects/EventApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_30d1dad2aae9a6f5a701808563338a40fae7b328/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abc/.android/build-cache/aee8d869ea9b91c7fc73cd90570a15a9e8fc93a3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
+        <dex dex="/Android Projects/Kestone Projects/EventApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_de64758e6a18774d74868a3fbe04c25e19eacb67/classes.dex" />
+    </item>
+
+</items>

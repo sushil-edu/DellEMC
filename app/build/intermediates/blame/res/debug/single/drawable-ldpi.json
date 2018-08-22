@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/drawable-ldpi/ic_user.png",
+        "source": "/Android Projects/Kestone Projects/EventApp/app/src/main/res/drawable-ldpi/ic_user.png"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/drawable-ldpi/ic_cancel.png",
+        "source": "/Android Projects/Kestone Projects/EventApp/app/src/main/res/drawable-ldpi/ic_cancel.png"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/drawable-ldpi/check_in.png",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/drawable-ldpi/check_in.png"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/drawable-ldpi/upload_photo.png",
+        "source": "/Android Projects/Kestone Projects/EventApp/app/src/main/res/drawable-ldpi/upload_photo.png"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/drawable-ldpi/check_in.png",
+        "source": "/Users/user/Desktop/EventApp/app/src/main/res/drawable-ldpi/check_in.png"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/drawable-ldpi/ic_notifications.png",
+        "source": "/Android Projects/Kestone Projects/EventApp/app/src/main/res/drawable-ldpi/ic_notifications.png"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/drawable-ldpi/check_in.png",
+        "source": "/Android Projects/Kestone Projects/EventApp/app/src/main/res/drawable-ldpi/check_in.png"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/drawable-ldpi/ic_close.png",
+        "source": "/Android Projects/Kestone Projects/EventApp/app/src/main/res/drawable-ldpi/ic_close.png"
+    }
+]

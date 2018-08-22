@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-wallet-10.0.1">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/5b5438a0438e8c5993b9c8d03da8ff1758035734/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/5b5438a0438e8c5993b9c8d03da8ff1758035734/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

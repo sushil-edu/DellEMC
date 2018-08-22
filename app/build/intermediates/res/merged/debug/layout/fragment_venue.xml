@@ -1,0 +1,43 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp"
+    tools:context="com.kestone.dellpartnersummit.Fragments.VenueFragment">
+
+    <ImageView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:src="@drawable/ic_location"
+        android:layout_gravity="center_horizontal"
+        android:tint="@color/colorPrimary"
+        android:layout_marginTop="10dp"/>
+
+    <com.kestone.dellpartnersummit.widget.MyTextView
+        android:id="@+id/venueNameTv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Hotel Radisson Blue"
+        android:gravity="center"
+        android:layout_marginTop="10dp"
+        android:textColor="@color/colorPrimary"
+        android:textSize="15sp"/>
+
+    <com.kestone.dellpartnersummit.widget.MyTextView
+        android:id="@+id/venueAddressTv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Nirman Vihar\nDelhi"
+        android:gravity="center"
+        android:layout_marginTop="10dp"
+        android:textColor="@color/black"
+        android:textSize="15sp"/>
+
+    <com.google.android.gms.maps.MapView
+        android:id="@+id/mapView"
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="200dp" />
+
+</LinearLayout>

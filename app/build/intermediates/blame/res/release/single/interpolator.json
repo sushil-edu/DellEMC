@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/interpolator/mr_linear_out_slow_in.xml",
+        "source": "/Users/mac/.android/build-cache/4c8dcee856ba25a1b9332c7618c55189ce3db6e4/output/res/interpolator/mr_linear_out_slow_in.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/interpolator/mr_fast_out_slow_in.xml",
+        "source": "/Users/mac/.android/build-cache/4c8dcee856ba25a1b9332c7618c55189ce3db6e4/output/res/interpolator/mr_fast_out_slow_in.xml"
+    }
+]

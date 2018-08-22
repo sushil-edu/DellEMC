@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.badoualy:datepicker-timeline-c6dcd05737">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/c2a1e9c6ae7fb45a613ca2a46a0aa475eae98926/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/c2a1e9c6ae7fb45a613ca2a46a0aa475eae98926/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.badoualy/datepicker-timeline/c6dcd05737/845e8ee273575f56488aee77a8b2d973e10a4310/datepicker-timeline-c6dcd05737-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

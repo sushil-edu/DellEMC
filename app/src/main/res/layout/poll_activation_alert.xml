@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:orientation="vertical"
+    android:padding="20dp">
+
+    <com.kestone.dellpartnersummit.widget.MyTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:text="Make Poll Active"
+        android:textColor="@color/black"
+        android:textSize="16sp" />
+
+    <com.kestone.dellpartnersummit.widget.MyTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:text="Digital Transformation Section"
+        android:textColor="@color/colorPrimary"
+        android:textSize="16sp" />
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:orientation="horizontal">
+
+            <com.kestone.dellpartnersummit.widget.MyTextView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:background="@color/blue_grey"
+                android:gravity="center"
+                android:text="01"
+                android:textColor="@color/white" />
+
+            <com.kestone.dellpartnersummit.widget.MyTextView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_marginLeft="10dp"
+                android:background="@color/blue_grey"
+                android:gravity="center"
+                android:text="Jan"
+                android:textColor="@color/white" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:orientation="horizontal">
+
+            <com.kestone.dellpartnersummit.widget.MyTextView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:background="@color/blue_grey"
+                android:gravity="center"
+                android:text="Hrs"
+                android:textColor="@color/white" />
+
+            <com.kestone.dellpartnersummit.widget.MyTextView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_marginLeft="10dp"
+                android:background="@color/blue_grey"
+                android:gravity="center"
+                android:text="Min"
+                android:textColor="@color/white" />
+
+        </LinearLayout>
+
+    </RelativeLayout>
+
+    <com.kestone.dellpartnersummit.widget.MyButton
+        android:layout_width="140dp"
+        android:layout_height="40dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="30dp"
+        android:background="@color/colorPrimary"
+        android:text="Make Active"
+        android:textAllCaps="false"
+        android:textColor="@color/white" />
+
+
+</LinearLayout>

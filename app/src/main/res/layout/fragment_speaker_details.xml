@@ -1,0 +1,45 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="com.kestone.dellpartnersummit.Fragments.SpeakerDetails">
+
+    <!-- TODO: Update blank fragment layout -->
+    <com.kestone.dellpartnersummit.widget.MyTextView
+        android:id="@+id/mDetailsTv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:textSize="15sp"
+        android:layout_margin="20dp"
+        android:textColor="@color/black"/>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/grey"/>
+    <in.galaxyofandroid.widgets.AwesomeRippleView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:layout_gravity="center"
+        app:arv_centered="true"
+        app:arv_color="@color/black"
+        app:arv_type="simpleRipple"
+        app:arv_zoom="true">
+
+    <com.kestone.dellpartnersummit.widget.MyButton
+        android:id="@+id/mScheduleBtn"
+        android:layout_width="200dp"
+        android:layout_height="35dp"
+        android:layout_gravity="center_horizontal"
+        android:background="@color/colorPrimary"
+        android:text="Schedule Meeting"
+        android:textColor="@color/white"
+        android:textAllCaps="false"
+        android:textSize="15sp"
+        android:visibility="gone"/>
+    </in.galaxyofandroid.widgets.AwesomeRippleView>
+
+</LinearLayout>

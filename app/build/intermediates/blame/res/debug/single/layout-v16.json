@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout-v16/notification_template_custom_big.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/layout-v16/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout-v16/notification_template_custom_big.xml",
+        "source": "/Users/abc/.android/build-cache/77b04dd30aeffd0b1751869735ee7fa050cf31bd/output/res/layout-v16/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout-v16/notification_template_custom_big.xml",
+        "source": "/Users/user/.android/build-cache/17bb19d5f057a3a83b20b5f7d78c46ce491621ef/output/res/layout-v16/notification_template_custom_big.xml"
+    }
+]

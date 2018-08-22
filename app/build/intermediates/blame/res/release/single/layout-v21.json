@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout-v21/place_autocomplete_fragment.xml",
+        "source": "/Users/mac/.android/build-cache/2a5624be7b758fa1e83d1d655ea47ea677d2e1c4/output/res/layout-v21/place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

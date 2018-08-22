@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.MdFarhanRaja:AwesomeWidgets-1.5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/4e522d9ec1c2b195216f0e982b8dc83910a375b8/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/4e522d9ec1c2b195216f0e982b8dc83910a375b8/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_activity_stream"
+            android:icon="@drawable/ic_activity_stream"
+            android:title="Activity Stream" />
+        <item
+            android:id="@+id/nav_agenda"
+            android:icon="@drawable/ic_agenda"
+            android:title="Agenda" />
+        <item
+            android:id="@+id/nav_speakers"
+            android:icon="@drawable/ic_speaker"
+            android:title="Speakers" />
+        <item
+            android:id="@+id/nav_delegates"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Delegates" />
+        <item
+            android:id="@+id/nav_networking"
+            android:icon="@drawable/ic_networking"
+            android:title="Networking" />
+        <item
+            android:id="@+id/nav_polls"
+            android:icon="@drawable/ic_polls"
+            android:title="Polls" />
+        <item
+            android:id="@+id/nav_venue"
+            android:icon="@drawable/ic_location"
+            android:title="Venue" />
+        <item
+            android:id="@+id/nav_travel_desk"
+            android:icon="@drawable/ic_venue"
+            android:title="Travel Desk" />
+        <item
+            android:id="@+id/nav_help_desk"
+            android:icon="@drawable/ic_help"
+            android:title="Help Desk" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_social"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Social" />
+            <item
+                android:id="@+id/nav_feedback"
+                android:icon="@drawable/ic_feedback"
+                android:title="Feedback" />
+        </menu>
+    </item>
+
+</menu>

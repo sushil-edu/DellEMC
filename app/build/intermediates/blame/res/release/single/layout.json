@@ -1,0 +1,626 @@
+[
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/activity_login.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/fragment_poll_questions.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/fragment_poll_questions.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/speaker_cell.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/speaker_cell.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/fragment_knowledge_bank.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/fragment_knowledge_bank.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/personal_agenda_cell.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/personal_agenda_cell.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/mti_item_month.xml",
+        "source": "/Users/mac/.android/build-cache/12f4ead6220291a05ccc6a516ed51ac40f933079/output/res/layout/mti_item_month.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/mr_playback_control.xml",
+        "source": "/Users/mac/.android/build-cache/4c8dcee856ba25a1b9332c7618c55189ce3db6e4/output/res/layout/mr_playback_control.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/notification_template_media_custom.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/design_navigation_item.xml",
+        "source": "/Users/mac/.android/build-cache/c6c6111b3bf05ba16af7dfa0b11c69abf316b5b8/output/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/place_autocomplete_item_powered_by_google.xml",
+        "source": "/Users/mac/.android/build-cache/2a5624be7b758fa1e83d1d655ea47ea677d2e1c4/output/res/layout/place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/cast_intro_overlay.xml",
+        "source": "/Users/mac/.android/build-cache/87aa1391c2fceeceea382352a650de64152425eb/output/res/layout/cast_intro_overlay.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/mti_item_day.xml",
+        "source": "/Users/mac/.android/build-cache/12f4ead6220291a05ccc6a516ed51ac40f933079/output/res/layout/mti_item_day.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/activity_speaker_details.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/activity_speaker_details.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/library_cell.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/library_cell.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/alert_reschedule.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/alert_reschedule.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/fragment_global_agenda.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/fragment_global_agenda.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/activity_early_bird.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/activity_early_bird.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/spinner_center_row.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/spinner_center_row.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/item_folder.xml",
+        "source": "/Users/mac/.android/build-cache/1ae269b2a16b48eeacdcd1e4e1ee452375136b23/output/res/layout/item_folder.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/help_cell.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/help_cell.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/select_dialog_item_material.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/abc_search_view.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/fragment_my_approve.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/fragment_my_approve.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/design_menu_item_action_area.xml",
+        "source": "/Users/mac/.android/build-cache/c6c6111b3bf05ba16af7dfa0b11c69abf316b5b8/output/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/design_layout_tab_icon.xml",
+        "source": "/Users/mac/.android/build-cache/c6c6111b3bf05ba16af7dfa0b11c69abf316b5b8/output/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/polls_cell.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/polls_cell.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/activity_agenda_details.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/activity_agenda_details.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/notification_template_icon_group.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/fragment_instagram.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/fragment_instagram.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/abc_screen_content_include.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/mr_chooser_dialog.xml",
+        "source": "/Users/mac/.android/build-cache/4c8dcee856ba25a1b9332c7618c55189ce3db6e4/output/res/layout/mr_chooser_dialog.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/fragment_activity_stream.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/fragment_activity_stream.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/fragment_social.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/fragment_social.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/mr_volume_control.xml",
+        "source": "/Users/mac/.android/build-cache/4c8dcee856ba25a1b9332c7618c55189ce3db6e4/output/res/layout/mr_volume_control.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/abc_screen_toolbar.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/polls_question_cell.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/polls_question_cell.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/place_autocomplete_item_prediction.xml",
+        "source": "/Users/mac/.android/build-cache/2a5624be7b758fa1e83d1d655ea47ea677d2e1c4/output/res/layout/place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/activity_edit_profile.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/activity_edit_profile.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/design_navigation_item_separator.xml",
+        "source": "/Users/mac/.android/build-cache/c6c6111b3bf05ba16af7dfa0b11c69abf316b5b8/output/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/notification_action.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/abc_alert_dialog_title_material.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/mr_controller_volume_item.xml",
+        "source": "/Users/mac/.android/build-cache/4c8dcee856ba25a1b9332c7618c55189ce3db6e4/output/res/layout/mr_controller_volume_item.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/fragment_delegates.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/fragment_delegates.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/mr_chooser_list_item.xml",
+        "source": "/Users/mac/.android/build-cache/4c8dcee856ba25a1b9332c7618c55189ce3db6e4/output/res/layout/mr_chooser_list_item.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/design_bottom_sheet_dialog.xml",
+        "source": "/Users/mac/.android/build-cache/c6c6111b3bf05ba16af7dfa0b11c69abf316b5b8/output/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/alert_rating.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/alert_rating.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/activity_main.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/activity_add.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/activity_add.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/knowledge_cell.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/knowledge_cell.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/activity_notification.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/activity_notification.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/fragment_personal_agenda.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/fragment_personal_agenda.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/abc_dialog_title_material.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/fragment_delegates_details.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/fragment_delegates_details.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/activity_splash_screen.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/activity_got_it.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/activity_got_it.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/abc_screen_simple.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/fragment_delegates_meeting.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/fragment_delegates_meeting.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/design_navigation_menu_item.xml",
+        "source": "/Users/mac/.android/build-cache/c6c6111b3bf05ba16af7dfa0b11c69abf316b5b8/output/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/splash.xml",
+        "source": "/Users/mac/.android/build-cache/5bbf01b41e6c1adc324f176894d39b52d7b465c6/output/res/layout/splash.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/fragment_help_desk.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/fragment_help_desk.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/fragment_my_scheduled.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/fragment_my_scheduled.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/spinner_row.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/spinner_row.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/fragment_linked_in.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/fragment_linked_in.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/alert_date_time.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/alert_date_time.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/design_navigation_item_subheader.xml",
+        "source": "/Users/mac/.android/build-cache/c6c6111b3bf05ba16af7dfa0b11c69abf316b5b8/output/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/travel_cell.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/travel_cell.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/design_navigation_item_header.xml",
+        "source": "/Users/mac/.android/build-cache/c6c6111b3bf05ba16af7dfa0b11c69abf316b5b8/output/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/cast_tracks_chooser_dialog_row_layout.xml",
+        "source": "/Users/mac/.android/build-cache/87aa1391c2fceeceea382352a650de64152425eb/output/res/layout/cast_tracks_chooser_dialog_row_layout.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/poll_activation_alert.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/poll_activation_alert.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/fragment_agenda.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/fragment_agenda.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/cast_tracks_chooser_dialog_layout.xml",
+        "source": "/Users/mac/.android/build-cache/87aa1391c2fceeceea382352a650de64152425eb/output/res/layout/cast_tracks_chooser_dialog_layout.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/toolbar.xml",
+        "source": "/Users/mac/.android/build-cache/1ae269b2a16b48eeacdcd1e4e1ee452375136b23/output/res/layout/toolbar.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/design_navigation_menu.xml",
+        "source": "/Users/mac/.android/build-cache/c6c6111b3bf05ba16af7dfa0b11c69abf316b5b8/output/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/feedback_cell.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/feedback_cell.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/fragment_speakers.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/fragment_speakers.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/notification_action_tombstone.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/activity_check_in.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/activity_check_in.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/activity_sign_inactivity.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/activity_sign_inactivity.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/custom_drawer_item.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/custom_drawer_item.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/fragment_venue.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/fragment_venue.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/fragment_my_pending.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/fragment_my_pending.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/notification_template_media.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/fragment_feedback.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/fragment_feedback.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/agenda_cell.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/agenda_cell.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/fragment_polls.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/fragment_polls.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/activity_request_speker_meeting.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/activity_request_speker_meeting.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/my_approve_cell.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/my_approve_cell.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/fragment_network_schedule.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/fragment_network_schedule.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/abc_action_menu_layout.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/fragment_pending_request.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/fragment_pending_request.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/activity_gallery.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/activity_gallery.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/notification_template_lines_media.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/mr_controller_material_dialog_b.xml",
+        "source": "/Users/mac/.android/build-cache/4c8dcee856ba25a1b9332c7618c55189ce3db6e4/output/res/layout/mr_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/activity_knowledge.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/activity_knowledge.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/cast_expanded_controller_activity.xml",
+        "source": "/Users/mac/.android/build-cache/87aa1391c2fceeceea382352a650de64152425eb/output/res/layout/cast_expanded_controller_activity.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/speaker_delegate_select.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/speaker_delegate_select.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/place_autocomplete_fragment.xml",
+        "source": "/Users/mac/.android/build-cache/2a5624be7b758fa1e83d1d655ea47ea677d2e1c4/output/res/layout/place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/design_bottom_navigation_item.xml",
+        "source": "/Users/mac/.android/build-cache/c6c6111b3bf05ba16af7dfa0b11c69abf316b5b8/output/res/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/abc_select_dialog_material.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/activity_delegates_details.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/activity_delegates_details.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/notification_template_part_time.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/place_autocomplete_progress.xml",
+        "source": "/Users/mac/.android/build-cache/2a5624be7b758fa1e83d1d655ea47ea677d2e1c4/output/res/layout/place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/design_text_input_password_icon.xml",
+        "source": "/Users/mac/.android/build-cache/c6c6111b3bf05ba16af7dfa0b11c69abf316b5b8/output/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/alert_time_spinner.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/alert_time_spinner.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/notification_cell.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/notification_cell.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/cast_mini_controller.xml",
+        "source": "/Users/mac/.android/build-cache/87aa1391c2fceeceea382352a650de64152425eb/output/res/layout/cast_mini_controller.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/fragment_network_meeting.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/fragment_network_meeting.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/delegates_cell.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/delegates_cell.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/fragment_delegate_pending_request.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/fragment_delegate_pending_request.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/fragment_scheduled_meeting.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/fragment_scheduled_meeting.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/fragment_speaker_details.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/fragment_speaker_details.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/mti_datepicker_timeline.xml",
+        "source": "/Users/mac/.android/build-cache/12f4ead6220291a05ccc6a516ed51ac40f933079/output/res/layout/mti_datepicker_timeline.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/activity_password.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/activity_password.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/item_image.xml",
+        "source": "/Users/mac/.android/build-cache/1ae269b2a16b48eeacdcd1e4e1ee452375136b23/output/res/layout/item_image.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/cast_help_text.xml",
+        "source": "/Users/mac/.android/build-cache/87aa1391c2fceeceea382352a650de64152425eb/output/res/layout/cast_help_text.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/fragment_twitter.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/fragment_twitter.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/fragment_gallery.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/fragment_gallery.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/my_pending_cell.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/my_pending_cell.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/activity_attendance.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/activity_attendance.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/alert_user_type.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/alert_user_type.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/fragment_submitted_poll.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/fragment_submitted_poll.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/fragment_travel_desk.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/fragment_travel_desk.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/design_layout_tab_text.xml",
+        "source": "/Users/mac/.android/build-cache/c6c6111b3bf05ba16af7dfa0b11c69abf316b5b8/output/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/fragment_facebook.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/fragment_facebook.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/activity_image_picker.xml",
+        "source": "/Users/mac/.android/build-cache/1ae269b2a16b48eeacdcd1e4e1ee452375136b23/output/res/layout/activity_image_picker.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/my_scheduled_cell.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/my_scheduled_cell.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/nested_agenda_cell.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/nested_agenda_cell.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/fragment_ask_aquestion.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/fragment_ask_aquestion.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/abc_action_mode_bar.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/stream_cell.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/stream_cell.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/design_layout_snackbar_include.xml",
+        "source": "/Users/mac/.android/build-cache/c6c6111b3bf05ba16af7dfa0b11c69abf316b5b8/output/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/design_layout_snackbar.xml",
+        "source": "/Users/mac/.android/build-cache/c6c6111b3bf05ba16af7dfa0b11c69abf316b5b8/output/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/fragment_networking.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/fragment_networking.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/layout/alert_user_cell.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/alert_user_cell.xml"
+    }
+]

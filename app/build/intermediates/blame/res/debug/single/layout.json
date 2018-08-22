@@ -1,0 +1,1878 @@
+[
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/abc/.android/build-cache/77b04dd30aeffd0b1751869735ee7fa050cf31bd/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/alert_user_cell.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/alert_user_cell.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_agenda.xml",
+        "source": "/Users/user/Desktop/EventApp/app/src/main/res/layout/fragment_agenda.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_speaker_details.xml",
+        "source": "/Android Projects/Kestone Projects/EventApp/app/src/main/res/layout/fragment_speaker_details.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_my_approve.xml",
+        "source": "/Android Projects/Kestone Projects/EventApp/app/src/main/res/layout/fragment_my_approve.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/activity_knowledge.xml",
+        "source": "/Users/user/Desktop/EventApp/app/src/main/res/layout/activity_knowledge.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/cast_intro_overlay.xml",
+        "source": "/Users/abc/.android/build-cache/dad637ee9be66aae36b536a5a3f80510d14d068e/output/res/layout/cast_intro_overlay.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_knowledge_bank.xml",
+        "source": "/Android Projects/Kestone Projects/EventApp/app/src/main/res/layout/fragment_knowledge_bank.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/Users/abc/.android/build-cache/46ecbb0a8fcf8b533fbfef757de4f2c2e121826d/output/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/activity_knowledge.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/activity_knowledge.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_delegates_meeting.xml",
+        "source": "/Android Projects/Kestone Projects/EventApp/app/src/main/res/layout/fragment_delegates_meeting.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/Users/user/.android/build-cache/fa68691b45ab6d57b9ffadf8eb2a3b3737b856df/output/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/cast_mini_controller.xml",
+        "source": "/Users/user/.android/build-cache/ff20716d19debf7fcbc22899133fc01f4903b7ab/output/res/layout/cast_mini_controller.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/my_pending_cell.xml",
+        "source": "/Android Projects/Kestone Projects/EventApp/app/src/main/res/layout/my_pending_cell.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/activity_image_picker.xml",
+        "source": "/Users/abc/.android/build-cache/c2752ca2fcf850d5cb005bccf584a99066db2c96/output/res/layout/activity_image_picker.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/cast_help_text.xml",
+        "source": "/Users/mac/.android/build-cache/87aa1391c2fceeceea382352a650de64152425eb/output/res/layout/cast_help_text.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/user/.android/build-cache/17bb19d5f057a3a83b20b5f7d78c46ce491621ef/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/Users/abc/.android/build-cache/77b04dd30aeffd0b1751869735ee7fa050cf31bd/output/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/abc/.android/build-cache/77b04dd30aeffd0b1751869735ee7fa050cf31bd/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/toolbar.xml",
+        "source": "/Users/mac/.android/build-cache/1ae269b2a16b48eeacdcd1e4e1ee452375136b23/output/res/layout/toolbar.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_knowledge_bank.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/fragment_knowledge_bank.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/mr_controller_material_dialog_b.xml",
+        "source": "/Users/mac/.android/build-cache/4c8dcee856ba25a1b9332c7618c55189ce3db6e4/output/res/layout/mr_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_scheduled_meeting.xml",
+        "source": "/Android Projects/Kestone Projects/EventApp/app/src/main/res/layout/fragment_scheduled_meeting.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/Users/user/.android/build-cache/fa68691b45ab6d57b9ffadf8eb2a3b3737b856df/output/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/agenda_cell.xml",
+        "source": "/Android Projects/Kestone Projects/EventApp/app/src/main/res/layout/agenda_cell.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/polls_question_cell.xml",
+        "source": "/Android Projects/Kestone Projects/EventApp/app/src/main/res/layout/polls_question_cell.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/mti_datepicker_timeline.xml",
+        "source": "/Users/user/.android/build-cache/c3d4e12237150d9646d05b9633b5c7be78b8812e/output/res/layout/mti_datepicker_timeline.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/Users/user/.android/build-cache/fa68691b45ab6d57b9ffadf8eb2a3b3737b856df/output/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/Users/user/.android/build-cache/17bb19d5f057a3a83b20b5f7d78c46ce491621ef/output/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_activity_stream.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/fragment_activity_stream.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/personal_agenda_cell.xml",
+        "source": "/Android Projects/Kestone Projects/EventApp/app/src/main/res/layout/personal_agenda_cell.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/activity_delegates_details.xml",
+        "source": "/Android Projects/Kestone Projects/EventApp/app/src/main/res/layout/activity_delegates_details.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/alert_reschedule.xml",
+        "source": "/Users/user/Desktop/EventApp/app/src/main/res/layout/alert_reschedule.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/Users/user/.android/build-cache/17bb19d5f057a3a83b20b5f7d78c46ce491621ef/output/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/design_bottom_navigation_item.xml",
+        "source": "/Users/user/.android/build-cache/fa68691b45ab6d57b9ffadf8eb2a3b3737b856df/output/res/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/Users/abc/.android/build-cache/46ecbb0a8fcf8b533fbfef757de4f2c2e121826d/output/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/spinner_center_row.xml",
+        "source": "/Android Projects/Kestone Projects/EventApp/app/src/main/res/layout/spinner_center_row.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
+        "source": "/Users/mac/.android/build-cache/c6c6111b3bf05ba16af7dfa0b11c69abf316b5b8/output/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/custom_drawer_item.xml",
+        "source": "/Android Projects/Kestone Projects/EventApp/app/src/main/res/layout/custom_drawer_item.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/cast_expanded_controller_activity.xml",
+        "source": "/Users/user/.android/build-cache/ff20716d19debf7fcbc22899133fc01f4903b7ab/output/res/layout/cast_expanded_controller_activity.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/abc/.android/build-cache/77b04dd30aeffd0b1751869735ee7fa050cf31bd/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/abc/.android/build-cache/77b04dd30aeffd0b1751869735ee7fa050cf31bd/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_delegate_pending_request.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/fragment_delegate_pending_request.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/user/.android/build-cache/17bb19d5f057a3a83b20b5f7d78c46ce491621ef/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/abc/.android/build-cache/77b04dd30aeffd0b1751869735ee7fa050cf31bd/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/Users/mac/.android/build-cache/c6c6111b3bf05ba16af7dfa0b11c69abf316b5b8/output/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_linked_in.xml",
+        "source": "/Android Projects/Kestone Projects/EventApp/app/src/main/res/layout/fragment_linked_in.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/alert_date_time.xml",
+        "source": "/Android Projects/Kestone Projects/EventApp/app/src/main/res/layout/alert_date_time.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/item_folder.xml",
+        "source": "/Users/user/.android/build-cache/e081fd42841bd5cb1b4c93099b6e321cbb36239f/output/res/layout/item_folder.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/stream_cell.xml",
+        "source": "/Android Projects/Kestone Projects/EventApp/app/src/main/res/layout/stream_cell.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/activity_early_bird.xml",
+        "source": "/Users/user/Desktop/EventApp/app/src/main/res/layout/activity_early_bird.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/help_cell.xml",
+        "source": "/Users/user/Desktop/EventApp/app/src/main/res/layout/help_cell.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/Users/abc/.android/build-cache/46ecbb0a8fcf8b533fbfef757de4f2c2e121826d/output/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/user/.android/build-cache/17bb19d5f057a3a83b20b5f7d78c46ce491621ef/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/Users/user/.android/build-cache/fa68691b45ab6d57b9ffadf8eb2a3b3737b856df/output/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/my_approve_cell.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/my_approve_cell.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/Users/abc/.android/build-cache/77b04dd30aeffd0b1751869735ee7fa050cf31bd/output/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_gallery.xml",
+        "source": "/Users/user/Desktop/EventApp/app/src/main/res/layout/fragment_gallery.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/Users/user/.android/build-cache/fa68691b45ab6d57b9ffadf8eb2a3b3737b856df/output/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/splash.xml",
+        "source": "/Users/abc/.android/build-cache/c7004928747c59804a33f38578ddb00ff3703017/output/res/layout/splash.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/activity_got_it.xml",
+        "source": "/Android Projects/Kestone Projects/EventApp/app/src/main/res/layout/activity_got_it.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/activity_sign_inactivity.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/activity_sign_inactivity.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/mti_datepicker_timeline.xml",
+        "source": "/Users/abc/.android/build-cache/c2a1e9c6ae7fb45a613ca2a46a0aa475eae98926/output/res/layout/mti_datepicker_timeline.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/Users/user/.android/build-cache/fa68691b45ab6d57b9ffadf8eb2a3b3737b856df/output/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/alert_user_type.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/alert_user_type.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/alert_user_type.xml",
+        "source": "/Users/user/Desktop/EventApp/app/src/main/res/layout/alert_user_type.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_global_agenda.xml",
+        "source": "/Android Projects/Kestone Projects/EventApp/app/src/main/res/layout/fragment_global_agenda.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/Users/mac/.android/build-cache/c6c6111b3bf05ba16af7dfa0b11c69abf316b5b8/output/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/my_scheduled_cell.xml",
+        "source": "/Users/user/Desktop/EventApp/app/src/main/res/layout/my_scheduled_cell.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/nested_agenda_cell.xml",
+        "source": "/Android Projects/Kestone Projects/EventApp/app/src/main/res/layout/nested_agenda_cell.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/cast_help_text.xml",
+        "source": "/Users/abc/.android/build-cache/dad637ee9be66aae36b536a5a3f80510d14d068e/output/res/layout/cast_help_text.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/mti_item_month.xml",
+        "source": "/Users/abc/.android/build-cache/c2a1e9c6ae7fb45a613ca2a46a0aa475eae98926/output/res/layout/mti_item_month.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_submitted_poll.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/fragment_submitted_poll.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/spinner_row.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/spinner_row.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_agenda.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/fragment_agenda.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/speaker_cell.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/speaker_cell.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/activity_edit_profile.xml",
+        "source": "/Users/user/Desktop/EventApp/app/src/main/res/layout/activity_edit_profile.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_network_schedule.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/fragment_network_schedule.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_networking.xml",
+        "source": "/Android Projects/Kestone Projects/EventApp/app/src/main/res/layout/fragment_networking.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/user/.android/build-cache/17bb19d5f057a3a83b20b5f7d78c46ce491621ef/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/my_scheduled_cell.xml",
+        "source": "/Android Projects/Kestone Projects/EventApp/app/src/main/res/layout/my_scheduled_cell.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/travel_cell.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/travel_cell.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/delegates_cell.xml",
+        "source": "/Users/user/Desktop/EventApp/app/src/main/res/layout/delegates_cell.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/library_cell.xml",
+        "source": "/Android Projects/Kestone Projects/EventApp/app/src/main/res/layout/library_cell.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/mti_item_day.xml",
+        "source": "/Users/mac/.android/build-cache/12f4ead6220291a05ccc6a516ed51ac40f933079/output/res/layout/mti_item_day.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/user/.android/build-cache/17bb19d5f057a3a83b20b5f7d78c46ce491621ef/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/my_approve_cell.xml",
+        "source": "/Users/user/Desktop/EventApp/app/src/main/res/layout/my_approve_cell.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/user/.android/build-cache/17bb19d5f057a3a83b20b5f7d78c46ce491621ef/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/library_cell.xml",
+        "source": "/Users/user/Desktop/EventApp/app/src/main/res/layout/library_cell.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_travel_desk.xml",
+        "source": "/Users/user/Desktop/EventApp/app/src/main/res/layout/fragment_travel_desk.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/activity_check_in.xml",
+        "source": "/Android Projects/Kestone Projects/EventApp/app/src/main/res/layout/activity_check_in.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/user/.android/build-cache/17bb19d5f057a3a83b20b5f7d78c46ce491621ef/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_scheduled_meeting.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/fragment_scheduled_meeting.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_polls.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/fragment_polls.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_my_scheduled.xml",
+        "source": "/Users/user/Desktop/EventApp/app/src/main/res/layout/fragment_my_scheduled.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
+        "source": "/Users/abc/.android/build-cache/46ecbb0a8fcf8b533fbfef757de4f2c2e121826d/output/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/cast_mini_controller.xml",
+        "source": "/Users/abc/.android/build-cache/dad637ee9be66aae36b536a5a3f80510d14d068e/output/res/layout/cast_mini_controller.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/user/.android/build-cache/17bb19d5f057a3a83b20b5f7d78c46ce491621ef/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/delegates_cell.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/delegates_cell.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/place_autocomplete_item_prediction.xml",
+        "source": "/Users/user/.android/build-cache/af553479077f26d291ebe29d3755bd2f94dcbba0/output/res/layout/place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/item_image.xml",
+        "source": "/Users/user/.android/build-cache/e081fd42841bd5cb1b4c93099b6e321cbb36239f/output/res/layout/item_image.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_poll_questions.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/fragment_poll_questions.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/cast_tracks_chooser_dialog_row_layout.xml",
+        "source": "/Users/abc/.android/build-cache/dad637ee9be66aae36b536a5a3f80510d14d068e/output/res/layout/cast_tracks_chooser_dialog_row_layout.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/abc/.android/build-cache/77b04dd30aeffd0b1751869735ee7fa050cf31bd/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/item_image.xml",
+        "source": "/Users/abc/.android/build-cache/c2752ca2fcf850d5cb005bccf584a99066db2c96/output/res/layout/item_image.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/activity_got_it.xml",
+        "source": "/Users/user/Desktop/EventApp/app/src/main/res/layout/activity_got_it.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/stream_cell.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/stream_cell.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/user/.android/build-cache/17bb19d5f057a3a83b20b5f7d78c46ce491621ef/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/alert_rating.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/alert_rating.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/activity_password.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/activity_password.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_delegate_pending_request.xml",
+        "source": "/Android Projects/Kestone Projects/EventApp/app/src/main/res/layout/fragment_delegate_pending_request.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/Users/abc/.android/build-cache/46ecbb0a8fcf8b533fbfef757de4f2c2e121826d/output/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/activity_attendance.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/activity_attendance.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_speakers.xml",
+        "source": "/Android Projects/Kestone Projects/EventApp/app/src/main/res/layout/fragment_speakers.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/spinner_row.xml",
+        "source": "/Android Projects/Kestone Projects/EventApp/app/src/main/res/layout/spinner_row.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/activity_request_speker_meeting.xml",
+        "source": "/Android Projects/Kestone Projects/EventApp/app/src/main/res/layout/activity_request_speker_meeting.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/activity_sign_inactivity.xml",
+        "source": "/Android Projects/Kestone Projects/EventApp/app/src/main/res/layout/activity_sign_inactivity.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_delegates_details.xml",
+        "source": "/Users/user/Desktop/EventApp/app/src/main/res/layout/fragment_delegates_details.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/polls_cell.xml",
+        "source": "/Users/user/Desktop/EventApp/app/src/main/res/layout/polls_cell.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/Users/abc/.android/build-cache/46ecbb0a8fcf8b533fbfef757de4f2c2e121826d/output/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/abc/.android/build-cache/77b04dd30aeffd0b1751869735ee7fa050cf31bd/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_help_desk.xml",
+        "source": "/Android Projects/Kestone Projects/EventApp/app/src/main/res/layout/fragment_help_desk.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_linked_in.xml",
+        "source": "/Users/user/Desktop/EventApp/app/src/main/res/layout/fragment_linked_in.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_gallery.xml",
+        "source": "/Android Projects/Kestone Projects/EventApp/app/src/main/res/layout/fragment_gallery.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/cast_tracks_chooser_dialog_layout.xml",
+        "source": "/Users/mac/.android/build-cache/87aa1391c2fceeceea382352a650de64152425eb/output/res/layout/cast_tracks_chooser_dialog_layout.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/abc/.android/build-cache/77b04dd30aeffd0b1751869735ee7fa050cf31bd/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_networking.xml",
+        "source": "/Users/user/Desktop/EventApp/app/src/main/res/layout/fragment_networking.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_twitter.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/fragment_twitter.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/activity_password.xml",
+        "source": "/Users/user/Desktop/EventApp/app/src/main/res/layout/activity_password.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_my_pending.xml",
+        "source": "/Users/user/Desktop/EventApp/app/src/main/res/layout/fragment_my_pending.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/alert_time_spinner.xml",
+        "source": "/Android Projects/Kestone Projects/EventApp/app/src/main/res/layout/alert_time_spinner.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/Users/abc/.android/build-cache/46ecbb0a8fcf8b533fbfef757de4f2c2e121826d/output/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_gallery.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/fragment_gallery.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_pending_request.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/fragment_pending_request.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/activity_splash_screen.xml",
+        "source": "/Users/user/Desktop/EventApp/app/src/main/res/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_delegates_meeting.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/fragment_delegates_meeting.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_library.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/fragment_library.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/Users/mac/.android/build-cache/c6c6111b3bf05ba16af7dfa0b11c69abf316b5b8/output/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/activity_notification.xml",
+        "source": "/Android Projects/Kestone Projects/EventApp/app/src/main/res/layout/activity_notification.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/Users/user/.android/build-cache/17bb19d5f057a3a83b20b5f7d78c46ce491621ef/output/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/speaker_delegate_select.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/speaker_delegate_select.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_speaker_details.xml",
+        "source": "/Users/user/Desktop/EventApp/app/src/main/res/layout/fragment_speaker_details.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/cast_tracks_chooser_dialog_layout.xml",
+        "source": "/Users/abc/.android/build-cache/dad637ee9be66aae36b536a5a3f80510d14d068e/output/res/layout/cast_tracks_chooser_dialog_layout.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/abc/.android/build-cache/77b04dd30aeffd0b1751869735ee7fa050cf31bd/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/abc/.android/build-cache/77b04dd30aeffd0b1751869735ee7fa050cf31bd/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/place_autocomplete_item_prediction.xml",
+        "source": "/Users/abc/.android/build-cache/e26cdef3ead66186c70049bdf087c1c5ab51e4a1/output/res/layout/place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/agenda_cell.xml",
+        "source": "/Users/user/Desktop/EventApp/app/src/main/res/layout/agenda_cell.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/user/.android/build-cache/17bb19d5f057a3a83b20b5f7d78c46ce491621ef/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_linked_in.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/fragment_linked_in.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/Users/abc/.android/build-cache/46ecbb0a8fcf8b533fbfef757de4f2c2e121826d/output/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/knowledge_cell.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/knowledge_cell.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/mr_playback_control.xml",
+        "source": "/Users/mac/.android/build-cache/4c8dcee856ba25a1b9332c7618c55189ce3db6e4/output/res/layout/mr_playback_control.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/notification_cell.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/notification_cell.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_delegates_meeting.xml",
+        "source": "/Users/user/Desktop/EventApp/app/src/main/res/layout/fragment_delegates_meeting.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_knowledge_bank.xml",
+        "source": "/Users/user/Desktop/EventApp/app/src/main/res/layout/fragment_knowledge_bank.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/mr_controller_material_dialog_b.xml",
+        "source": "/Users/abc/.android/build-cache/0b6824146640e421accbab0918ee4d5f9e7c4bfa/output/res/layout/mr_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/abc/.android/build-cache/77b04dd30aeffd0b1751869735ee7fa050cf31bd/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/activity_check_in.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/activity_check_in.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/Users/mac/.android/build-cache/c6c6111b3bf05ba16af7dfa0b11c69abf316b5b8/output/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/mti_item_month.xml",
+        "source": "/Users/user/.android/build-cache/c3d4e12237150d9646d05b9633b5c7be78b8812e/output/res/layout/mti_item_month.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_instagram.xml",
+        "source": "/Users/user/Desktop/EventApp/app/src/main/res/layout/fragment_instagram.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/custom_drawer_item.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/custom_drawer_item.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/spinner_center_row.xml",
+        "source": "/Users/user/Desktop/EventApp/app/src/main/res/layout/spinner_center_row.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_twitter.xml",
+        "source": "/Users/user/Desktop/EventApp/app/src/main/res/layout/fragment_twitter.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/user/.android/build-cache/17bb19d5f057a3a83b20b5f7d78c46ce491621ef/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/nested_agenda_cell.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/nested_agenda_cell.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/item_folder.xml",
+        "source": "/Users/mac/.android/build-cache/1ae269b2a16b48eeacdcd1e4e1ee452375136b23/output/res/layout/item_folder.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_help_desk.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/fragment_help_desk.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_speakers.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/fragment_speakers.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/mti_item_month.xml",
+        "source": "/Users/mac/.android/build-cache/12f4ead6220291a05ccc6a516ed51ac40f933079/output/res/layout/mti_item_month.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/Users/user/.android/build-cache/fa68691b45ab6d57b9ffadf8eb2a3b3737b856df/output/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_my_approve.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/fragment_my_approve.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/knowledge_cell.xml",
+        "source": "/Users/user/Desktop/EventApp/app/src/main/res/layout/knowledge_cell.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/cast_tracks_chooser_dialog_row_layout.xml",
+        "source": "/Users/mac/.android/build-cache/87aa1391c2fceeceea382352a650de64152425eb/output/res/layout/cast_tracks_chooser_dialog_row_layout.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/user/.android/build-cache/17bb19d5f057a3a83b20b5f7d78c46ce491621ef/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/user/.android/build-cache/17bb19d5f057a3a83b20b5f7d78c46ce491621ef/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/speaker_cell.xml",
+        "source": "/Android Projects/Kestone Projects/EventApp/app/src/main/res/layout/speaker_cell.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/cast_tracks_chooser_dialog_layout.xml",
+        "source": "/Users/user/.android/build-cache/ff20716d19debf7fcbc22899133fc01f4903b7ab/output/res/layout/cast_tracks_chooser_dialog_layout.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/mr_chooser_dialog.xml",
+        "source": "/Users/mac/.android/build-cache/4c8dcee856ba25a1b9332c7618c55189ce3db6e4/output/res/layout/mr_chooser_dialog.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/abc/.android/build-cache/77b04dd30aeffd0b1751869735ee7fa050cf31bd/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_speaker_details.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/fragment_speaker_details.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/Users/mac/.android/build-cache/c6c6111b3bf05ba16af7dfa0b11c69abf316b5b8/output/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/Users/mac/.android/build-cache/c6c6111b3bf05ba16af7dfa0b11c69abf316b5b8/output/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/Users/abc/.android/build-cache/77b04dd30aeffd0b1751869735ee7fa050cf31bd/output/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_personal_agenda.xml",
+        "source": "/Users/user/Desktop/EventApp/app/src/main/res/layout/fragment_personal_agenda.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/activity_splash_screen.xml",
+        "source": "/Android Projects/Kestone Projects/EventApp/app/src/main/res/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/mti_item_day.xml",
+        "source": "/Users/abc/.android/build-cache/c2a1e9c6ae7fb45a613ca2a46a0aa475eae98926/output/res/layout/mti_item_day.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/activity_add.xml",
+        "source": "/Android Projects/Kestone Projects/EventApp/app/src/main/res/layout/activity_add.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/personal_agenda_cell.xml",
+        "source": "/Users/user/Desktop/EventApp/app/src/main/res/layout/personal_agenda_cell.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/Users/user/.android/build-cache/fa68691b45ab6d57b9ffadf8eb2a3b3737b856df/output/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/Users/mac/.android/build-cache/c6c6111b3bf05ba16af7dfa0b11c69abf316b5b8/output/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/Users/abc/.android/build-cache/77b04dd30aeffd0b1751869735ee7fa050cf31bd/output/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/user/.android/build-cache/17bb19d5f057a3a83b20b5f7d78c46ce491621ef/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/activity_agenda_details.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/activity_agenda_details.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/alert_user_type.xml",
+        "source": "/Android Projects/Kestone Projects/EventApp/app/src/main/res/layout/alert_user_type.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/activity_sign_inactivity.xml",
+        "source": "/Users/user/Desktop/EventApp/app/src/main/res/layout/activity_sign_inactivity.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/user/.android/build-cache/17bb19d5f057a3a83b20b5f7d78c46ce491621ef/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/spinner_row.xml",
+        "source": "/Users/user/Desktop/EventApp/app/src/main/res/layout/spinner_row.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/user/.android/build-cache/17bb19d5f057a3a83b20b5f7d78c46ce491621ef/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_facebook.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/fragment_facebook.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_activity_stream.xml",
+        "source": "/Android Projects/Kestone Projects/EventApp/app/src/main/res/layout/fragment_activity_stream.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/polls_question_cell.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/polls_question_cell.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/abc/.android/build-cache/77b04dd30aeffd0b1751869735ee7fa050cf31bd/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_global_agenda.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/fragment_global_agenda.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/alert_rating.xml",
+        "source": "/Users/user/Desktop/EventApp/app/src/main/res/layout/alert_rating.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/mr_chooser_list_item.xml",
+        "source": "/Users/abc/.android/build-cache/0b6824146640e421accbab0918ee4d5f9e7c4bfa/output/res/layout/mr_chooser_list_item.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_activity_stream.xml",
+        "source": "/Users/user/Desktop/EventApp/app/src/main/res/layout/fragment_activity_stream.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_venue.xml",
+        "source": "/Android Projects/Kestone Projects/EventApp/app/src/main/res/layout/fragment_venue.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/my_scheduled_cell.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/my_scheduled_cell.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/place_autocomplete_item_powered_by_google.xml",
+        "source": "/Users/user/.android/build-cache/af553479077f26d291ebe29d3755bd2f94dcbba0/output/res/layout/place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/cast_intro_overlay.xml",
+        "source": "/Users/mac/.android/build-cache/87aa1391c2fceeceea382352a650de64152425eb/output/res/layout/cast_intro_overlay.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/abc/.android/build-cache/77b04dd30aeffd0b1751869735ee7fa050cf31bd/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/splash.xml",
+        "source": "/Users/user/.android/build-cache/4ae4802f745c99836aa5e43518b7970f10854fb8/output/res/layout/splash.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/alert_date_time.xml",
+        "source": "/Users/user/Desktop/EventApp/app/src/main/res/layout/alert_date_time.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_travel_desk.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/fragment_travel_desk.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/help_cell.xml",
+        "source": "/Android Projects/Kestone Projects/EventApp/app/src/main/res/layout/help_cell.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/Users/user/.android/build-cache/fa68691b45ab6d57b9ffadf8eb2a3b3737b856df/output/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_personal_agenda.xml",
+        "source": "/Android Projects/Kestone Projects/EventApp/app/src/main/res/layout/fragment_personal_agenda.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/Users/abc/.android/build-cache/46ecbb0a8fcf8b533fbfef757de4f2c2e121826d/output/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/mr_playback_control.xml",
+        "source": "/Users/abc/.android/build-cache/0b6824146640e421accbab0918ee4d5f9e7c4bfa/output/res/layout/mr_playback_control.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/activity_early_bird.xml",
+        "source": "/Android Projects/Kestone Projects/EventApp/app/src/main/res/layout/activity_early_bird.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_my_scheduled.xml",
+        "source": "/Android Projects/Kestone Projects/EventApp/app/src/main/res/layout/fragment_my_scheduled.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/activity_edit_profile.xml",
+        "source": "/Android Projects/Kestone Projects/EventApp/app/src/main/res/layout/activity_edit_profile.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/activity_gallery.xml",
+        "source": "/Users/user/Desktop/EventApp/app/src/main/res/layout/activity_gallery.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/activity_notification.xml",
+        "source": "/Users/user/Desktop/EventApp/app/src/main/res/layout/activity_notification.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/abc/.android/build-cache/77b04dd30aeffd0b1751869735ee7fa050cf31bd/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/toolbar.xml",
+        "source": "/Users/abc/.android/build-cache/c2752ca2fcf850d5cb005bccf584a99066db2c96/output/res/layout/toolbar.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/agenda_cell.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/agenda_cell.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/feedback_cell.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/feedback_cell.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/mr_volume_control.xml",
+        "source": "/Users/user/.android/build-cache/364e93da310c9536266070880e477d9a48cc97e5/output/res/layout/mr_volume_control.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/Users/mac/.android/build-cache/c6c6111b3bf05ba16af7dfa0b11c69abf316b5b8/output/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/activity_request_speker_meeting.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/activity_request_speker_meeting.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/cast_intro_overlay.xml",
+        "source": "/Users/user/.android/build-cache/ff20716d19debf7fcbc22899133fc01f4903b7ab/output/res/layout/cast_intro_overlay.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/user/.android/build-cache/17bb19d5f057a3a83b20b5f7d78c46ce491621ef/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_network_schedule.xml",
+        "source": "/Android Projects/Kestone Projects/EventApp/app/src/main/res/layout/fragment_network_schedule.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/item_folder.xml",
+        "source": "/Users/abc/.android/build-cache/c2752ca2fcf850d5cb005bccf584a99066db2c96/output/res/layout/item_folder.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/library_cell.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/library_cell.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/Users/abc/.android/build-cache/46ecbb0a8fcf8b533fbfef757de4f2c2e121826d/output/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/abc/.android/build-cache/77b04dd30aeffd0b1751869735ee7fa050cf31bd/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/alert_date_time.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/alert_date_time.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/activity_notification.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/activity_notification.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_feedback.xml",
+        "source": "/Android Projects/Kestone Projects/EventApp/app/src/main/res/layout/fragment_feedback.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/speaker_cell.xml",
+        "source": "/Users/user/Desktop/EventApp/app/src/main/res/layout/speaker_cell.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/stream_cell.xml",
+        "source": "/Users/user/Desktop/EventApp/app/src/main/res/layout/stream_cell.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/spinner_center_row.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/spinner_center_row.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/abc/.android/build-cache/77b04dd30aeffd0b1751869735ee7fa050cf31bd/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_network_meeting.xml",
+        "source": "/Users/user/Desktop/EventApp/app/src/main/res/layout/fragment_network_meeting.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/poll_activation_alert.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/poll_activation_alert.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_venue.xml",
+        "source": "/Users/user/Desktop/EventApp/app/src/main/res/layout/fragment_venue.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/place_autocomplete_item_prediction.xml",
+        "source": "/Users/mac/.android/build-cache/2a5624be7b758fa1e83d1d655ea47ea677d2e1c4/output/res/layout/place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/Users/user/.android/build-cache/fa68691b45ab6d57b9ffadf8eb2a3b3737b856df/output/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_polls.xml",
+        "source": "/Users/user/Desktop/EventApp/app/src/main/res/layout/fragment_polls.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/user/.android/build-cache/17bb19d5f057a3a83b20b5f7d78c46ce491621ef/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_delegates.xml",
+        "source": "/Users/user/Desktop/EventApp/app/src/main/res/layout/fragment_delegates.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/my_approve_cell.xml",
+        "source": "/Android Projects/Kestone Projects/EventApp/app/src/main/res/layout/my_approve_cell.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/Users/user/.android/build-cache/17bb19d5f057a3a83b20b5f7d78c46ce491621ef/output/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_delegate_pending_request.xml",
+        "source": "/Users/user/Desktop/EventApp/app/src/main/res/layout/fragment_delegate_pending_request.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/mr_controller_volume_item.xml",
+        "source": "/Users/abc/.android/build-cache/0b6824146640e421accbab0918ee4d5f9e7c4bfa/output/res/layout/mr_controller_volume_item.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/polls_cell.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/polls_cell.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/travel_cell.xml",
+        "source": "/Users/user/Desktop/EventApp/app/src/main/res/layout/travel_cell.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/cast_mini_controller.xml",
+        "source": "/Users/mac/.android/build-cache/87aa1391c2fceeceea382352a650de64152425eb/output/res/layout/cast_mini_controller.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/poll_activation_alert.xml",
+        "source": "/Users/user/Desktop/EventApp/app/src/main/res/layout/poll_activation_alert.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_feedback.xml",
+        "source": "/Users/user/Desktop/EventApp/app/src/main/res/layout/fragment_feedback.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/activity_agenda_details.xml",
+        "source": "/Users/user/Desktop/EventApp/app/src/main/res/layout/activity_agenda_details.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/alert_reschedule.xml",
+        "source": "/Android Projects/Kestone Projects/EventApp/app/src/main/res/layout/alert_reschedule.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/activity_splash_screen.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/cast_expanded_controller_activity.xml",
+        "source": "/Users/mac/.android/build-cache/87aa1391c2fceeceea382352a650de64152425eb/output/res/layout/cast_expanded_controller_activity.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/Users/mac/.android/build-cache/c6c6111b3bf05ba16af7dfa0b11c69abf316b5b8/output/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/alert_reschedule.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/alert_reschedule.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/personal_agenda_cell.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/personal_agenda_cell.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/activity_attendance.xml",
+        "source": "/Android Projects/Kestone Projects/EventApp/app/src/main/res/layout/activity_attendance.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_social.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/fragment_social.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_help_desk.xml",
+        "source": "/Users/user/Desktop/EventApp/app/src/main/res/layout/fragment_help_desk.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/alert_time_spinner.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/alert_time_spinner.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_network_schedule.xml",
+        "source": "/Users/user/Desktop/EventApp/app/src/main/res/layout/fragment_network_schedule.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_instagram.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/fragment_instagram.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/user/.android/build-cache/17bb19d5f057a3a83b20b5f7d78c46ce491621ef/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/abc/.android/build-cache/77b04dd30aeffd0b1751869735ee7fa050cf31bd/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/item_image.xml",
+        "source": "/Users/mac/.android/build-cache/1ae269b2a16b48eeacdcd1e4e1ee452375136b23/output/res/layout/item_image.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/mr_controller_material_dialog_b.xml",
+        "source": "/Users/user/.android/build-cache/364e93da310c9536266070880e477d9a48cc97e5/output/res/layout/mr_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/place_autocomplete_fragment.xml",
+        "source": "/Users/abc/.android/build-cache/e26cdef3ead66186c70049bdf087c1c5ab51e4a1/output/res/layout/place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_pending_request.xml",
+        "source": "/Android Projects/Kestone Projects/EventApp/app/src/main/res/layout/fragment_pending_request.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/activity_login.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/Users/user/.android/build-cache/fa68691b45ab6d57b9ffadf8eb2a3b3737b856df/output/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/mr_volume_control.xml",
+        "source": "/Users/abc/.android/build-cache/0b6824146640e421accbab0918ee4d5f9e7c4bfa/output/res/layout/mr_volume_control.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/my_pending_cell.xml",
+        "source": "/Users/user/Desktop/EventApp/app/src/main/res/layout/my_pending_cell.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_facebook.xml",
+        "source": "/Android Projects/Kestone Projects/EventApp/app/src/main/res/layout/fragment_facebook.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/user/.android/build-cache/17bb19d5f057a3a83b20b5f7d78c46ce491621ef/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_personal_agenda.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/fragment_personal_agenda.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_delegates.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/fragment_delegates.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/Users/abc/.android/build-cache/46ecbb0a8fcf8b533fbfef757de4f2c2e121826d/output/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/abc/.android/build-cache/77b04dd30aeffd0b1751869735ee7fa050cf31bd/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_facebook.xml",
+        "source": "/Users/user/Desktop/EventApp/app/src/main/res/layout/fragment_facebook.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/abc/.android/build-cache/77b04dd30aeffd0b1751869735ee7fa050cf31bd/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/toolbar.xml",
+        "source": "/Users/user/.android/build-cache/e081fd42841bd5cb1b4c93099b6e321cbb36239f/output/res/layout/toolbar.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/user/.android/build-cache/17bb19d5f057a3a83b20b5f7d78c46ce491621ef/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/notification_cell.xml",
+        "source": "/Android Projects/Kestone Projects/EventApp/app/src/main/res/layout/notification_cell.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/abc/.android/build-cache/77b04dd30aeffd0b1751869735ee7fa050cf31bd/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/Users/abc/.android/build-cache/77b04dd30aeffd0b1751869735ee7fa050cf31bd/output/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/alert_user_cell.xml",
+        "source": "/Android Projects/Kestone Projects/EventApp/app/src/main/res/layout/alert_user_cell.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_my_scheduled.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/fragment_my_scheduled.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_ask_aquestion.xml",
+        "source": "/Users/user/Desktop/EventApp/app/src/main/res/layout/fragment_ask_aquestion.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/nested_agenda_cell.xml",
+        "source": "/Users/user/Desktop/EventApp/app/src/main/res/layout/nested_agenda_cell.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_global_agenda.xml",
+        "source": "/Users/user/Desktop/EventApp/app/src/main/res/layout/fragment_global_agenda.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/mr_chooser_dialog.xml",
+        "source": "/Users/abc/.android/build-cache/0b6824146640e421accbab0918ee4d5f9e7c4bfa/output/res/layout/mr_chooser_dialog.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/feedback_cell.xml",
+        "source": "/Users/user/Desktop/EventApp/app/src/main/res/layout/feedback_cell.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/activity_early_bird.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/activity_early_bird.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/activity_knowledge.xml",
+        "source": "/Android Projects/Kestone Projects/EventApp/app/src/main/res/layout/activity_knowledge.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/mr_chooser_dialog.xml",
+        "source": "/Users/user/.android/build-cache/364e93da310c9536266070880e477d9a48cc97e5/output/res/layout/mr_chooser_dialog.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/abc/.android/build-cache/77b04dd30aeffd0b1751869735ee7fa050cf31bd/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/activity_login.xml",
+        "source": "/Android Projects/Kestone Projects/EventApp/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/my_pending_cell.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/my_pending_cell.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_network_meeting.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/fragment_network_meeting.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/user/.android/build-cache/17bb19d5f057a3a83b20b5f7d78c46ce491621ef/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/abc/.android/build-cache/77b04dd30aeffd0b1751869735ee7fa050cf31bd/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_my_pending.xml",
+        "source": "/Android Projects/Kestone Projects/EventApp/app/src/main/res/layout/fragment_my_pending.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/activity_agenda_details.xml",
+        "source": "/Android Projects/Kestone Projects/EventApp/app/src/main/res/layout/activity_agenda_details.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/user/.android/build-cache/17bb19d5f057a3a83b20b5f7d78c46ce491621ef/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/activity_check_in.xml",
+        "source": "/Users/user/Desktop/EventApp/app/src/main/res/layout/activity_check_in.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/activity_image_picker.xml",
+        "source": "/Users/mac/.android/build-cache/1ae269b2a16b48eeacdcd1e4e1ee452375136b23/output/res/layout/activity_image_picker.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_pending_request.xml",
+        "source": "/Users/user/Desktop/EventApp/app/src/main/res/layout/fragment_pending_request.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/abc/.android/build-cache/77b04dd30aeffd0b1751869735ee7fa050cf31bd/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/activity_edit_profile.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/activity_edit_profile.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/design_bottom_navigation_item.xml",
+        "source": "/Users/abc/.android/build-cache/46ecbb0a8fcf8b533fbfef757de4f2c2e121826d/output/res/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/Users/mac/.android/build-cache/c6c6111b3bf05ba16af7dfa0b11c69abf316b5b8/output/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/activity_speaker_details.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/activity_speaker_details.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/alert_rating.xml",
+        "source": "/Android Projects/Kestone Projects/EventApp/app/src/main/res/layout/alert_rating.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/place_autocomplete_item_powered_by_google.xml",
+        "source": "/Users/mac/.android/build-cache/2a5624be7b758fa1e83d1d655ea47ea677d2e1c4/output/res/layout/place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/notification_cell.xml",
+        "source": "/Users/user/Desktop/EventApp/app/src/main/res/layout/notification_cell.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/abc/.android/build-cache/77b04dd30aeffd0b1751869735ee7fa050cf31bd/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
+        "source": "/Users/user/.android/build-cache/fa68691b45ab6d57b9ffadf8eb2a3b3737b856df/output/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_delegates_details.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/fragment_delegates_details.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_venue.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/fragment_venue.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Android Projects/Kestone Projects/EventApp/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/place_autocomplete_progress.xml",
+        "source": "/Users/abc/.android/build-cache/e26cdef3ead66186c70049bdf087c1c5ab51e4a1/output/res/layout/place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_networking.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/fragment_networking.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/abc/.android/build-cache/77b04dd30aeffd0b1751869735ee7fa050cf31bd/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/place_autocomplete_progress.xml",
+        "source": "/Users/mac/.android/build-cache/2a5624be7b758fa1e83d1d655ea47ea677d2e1c4/output/res/layout/place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/activity_add.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/activity_add.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/user/.android/build-cache/17bb19d5f057a3a83b20b5f7d78c46ce491621ef/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/travel_cell.xml",
+        "source": "/Android Projects/Kestone Projects/EventApp/app/src/main/res/layout/travel_cell.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/activity_gallery.xml",
+        "source": "/Android Projects/Kestone Projects/EventApp/app/src/main/res/layout/activity_gallery.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/activity_password.xml",
+        "source": "/Android Projects/Kestone Projects/EventApp/app/src/main/res/layout/activity_password.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/feedback_cell.xml",
+        "source": "/Android Projects/Kestone Projects/EventApp/app/src/main/res/layout/feedback_cell.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/activity_delegates_details.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/activity_delegates_details.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_submitted_poll.xml",
+        "source": "/Users/user/Desktop/EventApp/app/src/main/res/layout/fragment_submitted_poll.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/polls_cell.xml",
+        "source": "/Android Projects/Kestone Projects/EventApp/app/src/main/res/layout/polls_cell.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/cast_expanded_controller_activity.xml",
+        "source": "/Users/abc/.android/build-cache/dad637ee9be66aae36b536a5a3f80510d14d068e/output/res/layout/cast_expanded_controller_activity.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/Users/mac/.android/build-cache/c6c6111b3bf05ba16af7dfa0b11c69abf316b5b8/output/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/activity_image_picker.xml",
+        "source": "/Users/user/.android/build-cache/e081fd42841bd5cb1b4c93099b6e321cbb36239f/output/res/layout/activity_image_picker.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/activity_gallery.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/activity_gallery.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/activity_attendance.xml",
+        "source": "/Users/user/Desktop/EventApp/app/src/main/res/layout/activity_attendance.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_ask_aquestion.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/fragment_ask_aquestion.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_social.xml",
+        "source": "/Users/user/Desktop/EventApp/app/src/main/res/layout/fragment_social.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/user/.android/build-cache/17bb19d5f057a3a83b20b5f7d78c46ce491621ef/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/user/.android/build-cache/17bb19d5f057a3a83b20b5f7d78c46ce491621ef/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/abc/.android/build-cache/77b04dd30aeffd0b1751869735ee7fa050cf31bd/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/knowledge_cell.xml",
+        "source": "/Android Projects/Kestone Projects/EventApp/app/src/main/res/layout/knowledge_cell.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/abc/.android/build-cache/77b04dd30aeffd0b1751869735ee7fa050cf31bd/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/abc/.android/build-cache/77b04dd30aeffd0b1751869735ee7fa050cf31bd/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/activity_got_it.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/activity_got_it.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/user/.android/build-cache/17bb19d5f057a3a83b20b5f7d78c46ce491621ef/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/activity_delegates_details.xml",
+        "source": "/Users/user/Desktop/EventApp/app/src/main/res/layout/activity_delegates_details.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_ask_aquestion.xml",
+        "source": "/Android Projects/Kestone Projects/EventApp/app/src/main/res/layout/fragment_ask_aquestion.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/custom_drawer_item.xml",
+        "source": "/Users/user/Desktop/EventApp/app/src/main/res/layout/custom_drawer_item.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/activity_speaker_details.xml",
+        "source": "/Android Projects/Kestone Projects/EventApp/app/src/main/res/layout/activity_speaker_details.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_travel_desk.xml",
+        "source": "/Android Projects/Kestone Projects/EventApp/app/src/main/res/layout/fragment_travel_desk.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/cast_tracks_chooser_dialog_row_layout.xml",
+        "source": "/Users/user/.android/build-cache/ff20716d19debf7fcbc22899133fc01f4903b7ab/output/res/layout/cast_tracks_chooser_dialog_row_layout.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_my_pending.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/fragment_my_pending.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/mr_volume_control.xml",
+        "source": "/Users/mac/.android/build-cache/4c8dcee856ba25a1b9332c7618c55189ce3db6e4/output/res/layout/mr_volume_control.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/user/Desktop/EventApp/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_speakers.xml",
+        "source": "/Users/user/Desktop/EventApp/app/src/main/res/layout/fragment_speakers.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/activity_speaker_details.xml",
+        "source": "/Users/user/Desktop/EventApp/app/src/main/res/layout/activity_speaker_details.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/help_cell.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/help_cell.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/mr_chooser_list_item.xml",
+        "source": "/Users/user/.android/build-cache/364e93da310c9536266070880e477d9a48cc97e5/output/res/layout/mr_chooser_list_item.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/Users/user/.android/build-cache/17bb19d5f057a3a83b20b5f7d78c46ce491621ef/output/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_poll_questions.xml",
+        "source": "/Android Projects/Kestone Projects/EventApp/app/src/main/res/layout/fragment_poll_questions.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/activity_login.xml",
+        "source": "/Users/user/Desktop/EventApp/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/poll_activation_alert.xml",
+        "source": "/Android Projects/Kestone Projects/EventApp/app/src/main/res/layout/poll_activation_alert.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/speaker_delegate_select.xml",
+        "source": "/Android Projects/Kestone Projects/EventApp/app/src/main/res/layout/speaker_delegate_select.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_twitter.xml",
+        "source": "/Android Projects/Kestone Projects/EventApp/app/src/main/res/layout/fragment_twitter.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/alert_time_spinner.xml",
+        "source": "/Users/user/Desktop/EventApp/app/src/main/res/layout/alert_time_spinner.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/splash.xml",
+        "source": "/Users/mac/.android/build-cache/5bbf01b41e6c1adc324f176894d39b52d7b465c6/output/res/layout/splash.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_network_meeting.xml",
+        "source": "/Android Projects/Kestone Projects/EventApp/app/src/main/res/layout/fragment_network_meeting.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/Users/mac/.android/build-cache/c6c6111b3bf05ba16af7dfa0b11c69abf316b5b8/output/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/place_autocomplete_item_powered_by_google.xml",
+        "source": "/Users/abc/.android/build-cache/e26cdef3ead66186c70049bdf087c1c5ab51e4a1/output/res/layout/place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_poll_questions.xml",
+        "source": "/Users/user/Desktop/EventApp/app/src/main/res/layout/fragment_poll_questions.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/user/.android/build-cache/17bb19d5f057a3a83b20b5f7d78c46ce491621ef/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/Users/user/.android/build-cache/fa68691b45ab6d57b9ffadf8eb2a3b3737b856df/output/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_delegates.xml",
+        "source": "/Android Projects/Kestone Projects/EventApp/app/src/main/res/layout/fragment_delegates.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_my_approve.xml",
+        "source": "/Users/user/Desktop/EventApp/app/src/main/res/layout/fragment_my_approve.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/abc/.android/build-cache/77b04dd30aeffd0b1751869735ee7fa050cf31bd/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_agenda.xml",
+        "source": "/Android Projects/Kestone Projects/EventApp/app/src/main/res/layout/fragment_agenda.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/user/.android/build-cache/17bb19d5f057a3a83b20b5f7d78c46ce491621ef/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/abc/.android/build-cache/77b04dd30aeffd0b1751869735ee7fa050cf31bd/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/abc/.android/build-cache/77b04dd30aeffd0b1751869735ee7fa050cf31bd/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/mr_chooser_list_item.xml",
+        "source": "/Users/mac/.android/build-cache/4c8dcee856ba25a1b9332c7618c55189ce3db6e4/output/res/layout/mr_chooser_list_item.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/Users/abc/.android/build-cache/46ecbb0a8fcf8b533fbfef757de4f2c2e121826d/output/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/mr_playback_control.xml",
+        "source": "/Users/user/.android/build-cache/364e93da310c9536266070880e477d9a48cc97e5/output/res/layout/mr_playback_control.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_feedback.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/layout/fragment_feedback.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/delegates_cell.xml",
+        "source": "/Android Projects/Kestone Projects/EventApp/app/src/main/res/layout/delegates_cell.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/abc/.android/build-cache/77b04dd30aeffd0b1751869735ee7fa050cf31bd/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/alert_user_cell.xml",
+        "source": "/Users/user/Desktop/EventApp/app/src/main/res/layout/alert_user_cell.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/user/.android/build-cache/17bb19d5f057a3a83b20b5f7d78c46ce491621ef/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/place_autocomplete_fragment.xml",
+        "source": "/Users/mac/.android/build-cache/2a5624be7b758fa1e83d1d655ea47ea677d2e1c4/output/res/layout/place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_social.xml",
+        "source": "/Android Projects/Kestone Projects/EventApp/app/src/main/res/layout/fragment_social.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/cast_help_text.xml",
+        "source": "/Users/user/.android/build-cache/ff20716d19debf7fcbc22899133fc01f4903b7ab/output/res/layout/cast_help_text.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/Users/abc/.android/build-cache/46ecbb0a8fcf8b533fbfef757de4f2c2e121826d/output/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/mti_item_day.xml",
+        "source": "/Users/user/.android/build-cache/c3d4e12237150d9646d05b9633b5c7be78b8812e/output/res/layout/mti_item_day.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/polls_question_cell.xml",
+        "source": "/Users/user/Desktop/EventApp/app/src/main/res/layout/polls_question_cell.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_instagram.xml",
+        "source": "/Android Projects/Kestone Projects/EventApp/app/src/main/res/layout/fragment_instagram.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/user/.android/build-cache/17bb19d5f057a3a83b20b5f7d78c46ce491621ef/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_submitted_poll.xml",
+        "source": "/Android Projects/Kestone Projects/EventApp/app/src/main/res/layout/fragment_submitted_poll.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_polls.xml",
+        "source": "/Android Projects/Kestone Projects/EventApp/app/src/main/res/layout/fragment_polls.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/user/.android/build-cache/17bb19d5f057a3a83b20b5f7d78c46ce491621ef/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/activity_add.xml",
+        "source": "/Users/user/Desktop/EventApp/app/src/main/res/layout/activity_add.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/activity_request_speker_meeting.xml",
+        "source": "/Users/user/Desktop/EventApp/app/src/main/res/layout/activity_request_speker_meeting.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/user/.android/build-cache/17bb19d5f057a3a83b20b5f7d78c46ce491621ef/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/mr_controller_volume_item.xml",
+        "source": "/Users/mac/.android/build-cache/4c8dcee856ba25a1b9332c7618c55189ce3db6e4/output/res/layout/mr_controller_volume_item.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/place_autocomplete_progress.xml",
+        "source": "/Users/user/.android/build-cache/af553479077f26d291ebe29d3755bd2f94dcbba0/output/res/layout/place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/mr_controller_volume_item.xml",
+        "source": "/Users/user/.android/build-cache/364e93da310c9536266070880e477d9a48cc97e5/output/res/layout/mr_controller_volume_item.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/mti_datepicker_timeline.xml",
+        "source": "/Users/mac/.android/build-cache/12f4ead6220291a05ccc6a516ed51ac40f933079/output/res/layout/mti_datepicker_timeline.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/mac/.android/build-cache/ee10025b8624b1ae653906758e79327a519da027/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/place_autocomplete_fragment.xml",
+        "source": "/Users/user/.android/build-cache/af553479077f26d291ebe29d3755bd2f94dcbba0/output/res/layout/place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_delegates_details.xml",
+        "source": "/Android Projects/Kestone Projects/EventApp/app/src/main/res/layout/fragment_delegates_details.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/fragment_scheduled_meeting.xml",
+        "source": "/Users/user/Desktop/EventApp/app/src/main/res/layout/fragment_scheduled_meeting.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/layout/design_bottom_navigation_item.xml",
+        "source": "/Users/mac/.android/build-cache/c6c6111b3bf05ba16af7dfa0b11c69abf316b5b8/output/res/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/Users/abc/.android/build-cache/77b04dd30aeffd0b1751869735ee7fa050cf31bd/output/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/Users/user/.android/build-cache/17bb19d5f057a3a83b20b5f7d78c46ce491621ef/output/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/layout/speaker_delegate_select.xml",
+        "source": "/Users/user/Desktop/EventApp/app/src/main/res/layout/speaker_delegate_select.xml"
+    }
+]

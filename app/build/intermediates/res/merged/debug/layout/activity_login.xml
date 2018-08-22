@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/loginimage"
+    android:focusableInTouchMode="true"
+    android:orientation="vertical"
+    tools:context="com.kestone.dellpartnersummit.Activities.EditProfile">
+
+    <!--<View-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent"-->
+        <!--android:alpha="0.3"-->
+        <!--android:background="@color/black" />-->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:orientation="vertical">
+
+
+        <com.kestone.dellpartnersummit.widget.MyTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginLeft="60dp"
+            android:layout_marginRight="60dp"
+            android:layout_marginBottom="30dp"
+            android:layout_marginTop="30dp"
+            android:textColor="@color/white"
+            android:text="Welcome to Dell EMC India Partner Summit 2017"/>
+
+        <com.kestone.dellpartnersummit.widget.MyEditText
+            android:id="@+id/emailEt"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginLeft="60dp"
+            android:layout_marginRight="60dp"
+            android:background="@null"
+            android:gravity="center"
+            android:hint="Email ID"
+            android:singleLine="true"
+            android:textColor="@color/white"
+            android:textColorHint="@color/grey"
+            android:textSize="15sp" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginLeft="60dp"
+            android:layout_marginRight="60dp"
+            android:background="@color/white" />
+
+
+
+        <com.kestone.dellpartnersummit.widget.MyButton
+            android:id="@+id/verifyBtn"
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:layout_marginLeft="60dp"
+            android:layout_marginRight="60dp"
+            android:layout_marginTop="15dp"
+            android:background="@color/colorPrimary"
+            android:text="Proceed"
+            android:textAllCaps="false"
+            android:textColor="@color/white" />
+
+
+
+
+
+    </LinearLayout>
+
+
+</RelativeLayout>

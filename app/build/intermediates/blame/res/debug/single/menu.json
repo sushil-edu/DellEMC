@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/menu/activity_stream.xml",
+        "source": "/Android Projects/Kestone Projects/EventApp/app/src/main/res/menu/activity_stream.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/menu/activity_stream.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/menu/activity_stream.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/menu/activity_stream.xml",
+        "source": "/Users/user/Desktop/EventApp/app/src/main/res/menu/activity_stream.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/menu/activity_stream_drawer.xml",
+        "source": "/Android Projects/Kestone Projects/EventApp/app/src/main/res/menu/activity_stream_drawer.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/menu/activity_stream_drawer.xml",
+        "source": "/Users/user/Desktop/EventApp/app/src/main/res/menu/activity_stream_drawer.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/menu/activity_stream_drawer.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/menu/activity_stream_drawer.xml"
+    }
+]

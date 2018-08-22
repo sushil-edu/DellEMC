@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/interpolator/mr_fast_out_slow_in.xml",
+        "source": "/Users/abc/.android/build-cache/0b6824146640e421accbab0918ee4d5f9e7c4bfa/output/res/interpolator/mr_fast_out_slow_in.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/interpolator/mr_linear_out_slow_in.xml",
+        "source": "/Users/mac/.android/build-cache/4c8dcee856ba25a1b9332c7618c55189ce3db6e4/output/res/interpolator/mr_linear_out_slow_in.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/interpolator/mr_linear_out_slow_in.xml",
+        "source": "/Users/abc/.android/build-cache/0b6824146640e421accbab0918ee4d5f9e7c4bfa/output/res/interpolator/mr_linear_out_slow_in.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/interpolator/mr_linear_out_slow_in.xml",
+        "source": "/Users/user/.android/build-cache/364e93da310c9536266070880e477d9a48cc97e5/output/res/interpolator/mr_linear_out_slow_in.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/interpolator/mr_fast_out_slow_in.xml",
+        "source": "/Users/mac/.android/build-cache/4c8dcee856ba25a1b9332c7618c55189ce3db6e4/output/res/interpolator/mr_fast_out_slow_in.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/interpolator/mr_fast_out_slow_in.xml",
+        "source": "/Users/user/.android/build-cache/364e93da310c9536266070880e477d9a48cc97e5/output/res/interpolator/mr_fast_out_slow_in.xml"
+    }
+]

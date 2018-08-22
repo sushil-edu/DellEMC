@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "642889446086",
+    "firebase_url": "https://dell-event-projects.firebaseio.com",
+    "project_id": "dell-event-projects",
+    "storage_bucket": "dell-event-projects.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642889446086:android:fe7a3632e513e786",
+        "android_client_info": {
+          "package_name": "com.kestone.dellpartnersummit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "642889446086-tlqgt4go985632qd9okq61lhnu37vshl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kestone.dellpartnersummit",
+            "certificate_hash": "9b0b991ff27c13264f21008ec2a48f039800ff2d"
+          }
+        },
+        {
+          "client_id": "642889446086-27d1mc0krdghnu7rkm0gsi4abh5ao4n8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH_GT4FBmhEYxbjQeHrZ4CIoE4hjCIGWU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "642889446086-27d1mc0krdghnu7rkm0gsi4abh5ao4n8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

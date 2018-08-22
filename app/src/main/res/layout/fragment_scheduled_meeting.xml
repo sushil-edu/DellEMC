@@ -1,0 +1,42 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.kestone.dellpartnersummit.Fragments.ScheduledMeetingFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+
+    <com.kestone.dellpartnersummit.widget.MyTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:textColor="@color/colorPrimary"
+        android:text="Meeting Scheduled for"
+        android:gravity="center_horizontal"
+        android:textSize="14sp"/>
+
+    <RelativeLayout
+        android:layout_width="150dp"
+        android:layout_height="60dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="10dp"
+        android:background="@color/colorPrimary">
+
+        <com.kestone.dellpartnersummit.widget.MyTextView
+            android:id="@+id/mScheduledTv"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="24 NOV\n17 Hrs00 Min"
+            android:gravity="center"
+            android:textColor="@color/white"
+            android:textSize="15sp"/>
+
+    </RelativeLayout>
+
+
+
+
+
+</LinearLayout>

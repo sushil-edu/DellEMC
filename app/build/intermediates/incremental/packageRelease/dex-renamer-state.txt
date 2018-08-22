@@ -1,0 +1,7 @@
+#Thu Oct 26 15:27:24 IST 2017
+base.0=/PANKAJ projects/EventApp/app/build/intermediates/transforms/dex/release/folders/1000/1f/main
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/PANKAJ projects/EventApp/app/build/intermediates/transforms/dex/release/folders/1000/1f/main/classes.dex
+base.1=/PANKAJ projects/EventApp/app/build/intermediates/transforms/dex/release/folders/1000/1f/main
+file.0=/PANKAJ projects/EventApp/app/build/intermediates/transforms/dex/release/folders/1000/1f/main/classes2.dex

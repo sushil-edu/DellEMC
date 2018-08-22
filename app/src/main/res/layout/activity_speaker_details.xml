@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/light_grey"
+    tools:context="com.kestone.dellpartnersummit.Activities.SpeakerDetails">
+
+    <android.support.design.widget.AppBarLayout
+        android:id="@+id/appBarLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="120dp">
+
+            <android.support.v7.widget.Toolbar
+                android:id="@+id/toolbar"
+                android:layout_width="match_parent"
+                android:layout_height="120dp"
+                android:background="@drawable/image"
+                app:popupTheme="@style/AppTheme.PopupOverlay" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:alpha="0.1"
+                android:background="@color/colorPrimary" />
+
+            <com.kestone.dellpartnersummit.widget.MyBoldTextView
+                android:id="@+id/mTitleTv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="15dp"
+                android:text="Profile Details"
+                android:textColor="@color/white"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:layout_marginBottom="20dp"
+                android:src="@drawable/app_logo"
+                android:visibility="gone"/>
+
+        </RelativeLayout>
+
+    </android.support.design.widget.AppBarLayout>
+
+    <ScrollView
+        android:id="@+id/scrollView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/appBarLayout">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <in.galaxyofandroid.widgets.AwesomeRelativeLayout
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_margin="20dp"
+                android:background="@color/white"
+                app:arl_borderColor="@color/grey"
+                app:arl_borderEnable="false"
+                app:arl_borderWidth="1"
+                app:arl_cornerRadius="200">
+
+                <com.pkmmte.view.CircularImageView
+                    android:id="@+id/profileIv"
+                    android:layout_width="96dp"
+                    android:layout_height="96dp"
+                    android:layout_centerInParent="true"
+                    android:src="@drawable/ic_user" />
+
+            </in.galaxyofandroid.widgets.AwesomeRelativeLayout>
+
+            <com.kestone.dellpartnersummit.widget.MyTextView
+                android:id="@+id/nameTv"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:text="Pankaj Kumar"
+                android:textColor="@color/colorPrimary"
+                android:textSize="17sp" />
+            <com.kestone.dellpartnersummit.widget.MyTextView
+                android:id="@+id/designationTv"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:text="Android Developer"
+                android:layout_marginTop="5dp"
+                android:textSize="13sp" />
+            <com.kestone.dellpartnersummit.widget.MyTextView
+                android:id="@+id/organizationTv"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:text="Xperia Technologies"
+                android:layout_marginTop="2dp"
+                android:textSize="13sp" />
+
+            <com.kestone.dellpartnersummit.widget.MyTextView
+                android:id="@+id/detailsTv"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:textColor="@color/black"
+                android:gravity="center_horizontal"/>
+
+            <FrameLayout
+                android:id="@+id/container"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="30dp"
+                android:layout_marginBottom="50dp"/>
+
+
+            <com.kestone.dellpartnersummit.widget.MyButton
+                android:id="@+id/mScheduleBtn"
+                android:layout_width="200dp"
+                android:layout_height="35dp"
+                android:layout_gravity="center_horizontal"
+                android:background="@color/colorPrimary"
+                android:text="Schedule Meeting"
+                android:textColor="@color/white"
+                android:textAllCaps="false"
+                android:textSize="15sp"
+                android:layout_marginBottom="40dp"/>
+        </LinearLayout>
+    </ScrollView>
+
+    <LinearLayout
+        android:id="@+id/bottomLl"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_alignParentBottom="true"
+        android:weightSum="2"
+        android:orientation="horizontal">
+        <com.kestone.dellpartnersummit.widget.MyButton
+            android:id="@+id/cancelMeetingBtn"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@color/colorAccent"
+            android:text="Cancel"
+            android:textAllCaps="false"
+            android:textColor="@color/white"
+            android:layout_marginLeft="2dp"
+            android:layout_marginStart="2dp"/>
+
+        <View
+            android:layout_width="2dp"
+            android:layout_height="match_parent"
+            android:background="@color/white"/>
+
+        <com.kestone.dellpartnersummit.widget.MyButton
+            android:id="@+id/mRescheduleBtn"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@color/colorAccent"
+            android:text="Reschedule"
+            android:textAllCaps="false"
+            android:textColor="@color/white"
+            android:layout_marginRight="2dp"
+            android:layout_marginEnd="2dp"/>
+    </LinearLayout>
+</RelativeLayout>

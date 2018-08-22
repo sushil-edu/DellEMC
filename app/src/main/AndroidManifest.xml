@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.kestone.dellpartnersummit">
+
+    <uses-feature android:name="android.hardware.camera" />
+
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+
+    <uses-feature
+        android:name="android.hardware.camera.autofocus"
+        android:required="false" />
+
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:name="com.kestone.dellpartnersummit.Application"
+        android:allowBackup="true"
+        android:icon="@drawable/app_logo"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:roundIcon="@drawable/app_logo"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name="com.kestone.dellpartnersummit.Activities.SplashScreen"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.kestone.dellpartnersummit.Activities.AddActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.kestone.dellpartnersummit.Activities.SignInactivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.kestone.dellpartnersummit.Activities.SpeakerDetails"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.kestone.dellpartnersummit.Activities.DelegatesDetails"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.kestone.dellpartnersummit.Activities.RequestSpekerMeeting"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.kestone.dellpartnersummit.Activities.EditProfile"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.kestone.dellpartnersummit.Activities.MainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.kestone.dellpartnersummit.Activities.CheckIn"
+            android:screenOrientation="portrait" />
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyB353P_truxBhb2ykmXIMgnikaS5_bNnp0" />
+
+        <activity
+            android:name="com.kestone.dellpartnersummit.Activities.LoginActivity"
+            android:screenOrientation="portrait" />
+        >
+        <activity
+            android:name="com.kestone.dellpartnersummit.Activities.PasswordActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.kestone.dellpartnersummit.Activities.AgendaDetails"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.kestone.dellpartnersummit.Activities.NotificationActivity"
+            android:screenOrientation="portrait" />
+
+        <service
+            android:name="com.kestone.dellpartnersummit.MyFirebaseInstanceIdService"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+            </intent-filter>
+        </service>
+        <service
+            android:name="com.kestone.dellpartnersummit.MyFirebaseMessagingService"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+
+        <!--
+     Set custom default icon. This is used when no icon is set for incoming notification messages.
+     See README(https://goo.gl/l4GJaQ) for more.
+        -->
+        <meta-data
+            android:name="com.google.firebase.messaging.default_notification_icon"
+            android:resource="@drawable/notification_icon" />
+        <!--
+             Set color used with incoming notification messages. This is used when no color is set for the incoming
+             notification message. See README(https://goo.gl/6BKBk7) for more.
+        -->
+        <meta-data
+            android:name="com.google.firebase.messaging.default_notification_color"
+            android:resource="@color/colorAccent" />
+
+        <activity
+            android:name="com.kestone.dellpartnersummit.Activities.AttendanceActivity"
+            android:screenOrientation="portrait" />
+        <activity android:name="com.kestone.dellpartnersummit.Activities.KnowledgeActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.kestone.dellpartnersummit.Activities.GalleryActivity"
+            android:theme="@style/Theme.Transparent"
+            android:screenOrientation="portrait"/>
+        <activity android:name="com.kestone.dellpartnersummit.Activities.GotItActivity"
+            android:screenOrientation="portrait" />
+        <activity android:name="com.kestone.dellpartnersummit.Activities.EarlyBird"
+            android:screenOrientation="portrait"></activity>
+    </application>
+
+</manifest>

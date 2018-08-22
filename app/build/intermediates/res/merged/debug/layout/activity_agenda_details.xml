@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/light_grey"
+    android:orientation="vertical"
+    tools:context="com.kestone.dellpartnersummit.Activities.SpeakerDetails">
+
+    <android.support.design.widget.AppBarLayout
+        android:id="@+id/appBarLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="120dp">
+
+            <android.support.v7.widget.Toolbar
+                android:id="@+id/toolbar"
+                android:layout_width="match_parent"
+                android:layout_height="120dp"
+                android:background="@drawable/image"
+                app:popupTheme="@style/AppTheme.PopupOverlay" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:alpha="0.1"
+                android:background="@color/colorPrimary" />
+
+            <com.kestone.dellpartnersummit.widget.MyBoldTextView
+                android:id="@+id/mTitleTv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="15dp"
+                android:text="Agenda Details"
+                android:textColor="@color/white"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:layout_marginBottom="20dp"
+                android:src="@drawable/app_logo"
+                android:visibility="gone" />
+        </RelativeLayout>
+
+    </android.support.design.widget.AppBarLayout>
+
+    <ScrollView
+        android:id="@+id/scrollView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/appBarLayout">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp">
+
+            <com.kestone.dellpartnersummit.widget.MyTextView
+                android:id="@+id/titleTv"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="25dp"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:gravity="center_horizontal"
+                android:text="Bussiness Development"
+                android:textColor="@color/colorPrimary"
+                android:textSize="15sp" />
+
+            <com.kestone.dellpartnersummit.widget.MyTextView
+                android:id="@+id/locationTv"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:gravity="center_horizontal"
+                android:text="Android Developer"
+                android:textSize="11sp" />
+
+            <in.galaxyofandroid.widgets.AwesomeRelativeLayout
+                android:id="@+id/profileRel"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_margin="20dp"
+                android:background="@color/white"
+                app:arl_borderColor="@color/grey"
+                app:arl_borderEnable="false"
+                app:arl_borderWidth="1"
+                app:arl_cornerRadius="160"
+                android:visibility="gone">
+
+                <com.pkmmte.view.CircularImageView
+                    android:id="@+id/profileIv"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    android:layout_centerInParent="true"
+                    android:src="@drawable/ic_user"/>
+
+            </in.galaxyofandroid.widgets.AwesomeRelativeLayout>
+
+            <com.kestone.dellpartnersummit.widget.MyTextView
+                android:id="@+id/nameTv"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:text="Pankaj Kumar"
+                android:textColor="@color/black"
+                android:textSize="13sp"
+                android:visibility="gone" />
+
+            <com.kestone.dellpartnersummit.widget.MyTextView
+                android:id="@+id/designationTv"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:gravity="center_horizontal"
+                android:text="Android Developer"
+                android:textSize="11sp"
+                android:visibility="gone" />
+
+            <com.kestone.dellpartnersummit.widget.MyTextView
+                android:id="@+id/organizationTv"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="2dp"
+                android:gravity="center_horizontal"
+                android:text="Xperia Technologies"
+                android:textSize="11sp"
+                android:visibility="gone"/>
+
+            <com.kestone.dellpartnersummit.widget.MyTextView
+                android:id="@+id/descriptionTv"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:layout_marginTop="15dp"
+                android:text=""
+                android:textColor="@color/black"
+                android:textSize="13sp" />
+
+
+            <ImageView
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="40dp"
+                android:src="@drawable/calendar" />
+
+            <com.kestone.dellpartnersummit.widget.MyTextView
+                android:id="@+id/dateTv"
+                android:layout_width="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:layout_height="50dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="12dp"
+                android:background="@color/colorPrimary"
+                android:gravity="center"
+                android:text="24 Nov\n17Hrs 00 Min"
+                android:textColor="@color/white" />
+
+            <com.kestone.dellpartnersummit.widget.MyTextView
+                android:id="@+id/detailsTv"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:gravity="center_horizontal"
+                android:text="" />
+
+
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

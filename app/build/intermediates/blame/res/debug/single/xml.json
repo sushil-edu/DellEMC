@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/user/Desktop/EventApp/app/build/intermediates/res/merged/debug/xml/file_paths.xml",
+        "source": "/Users/user/.android/build-cache/e081fd42841bd5cb1b4c93099b6e321cbb36239f/output/res/xml/file_paths.xml"
+    },
+    {
+        "merged": "/Android Projects/Kestone Projects/EventApp/app/build/intermediates/res/merged/debug/xml/file_paths.xml",
+        "source": "/Users/abc/.android/build-cache/c2752ca2fcf850d5cb005bccf584a99066db2c96/output/res/xml/file_paths.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/debug/xml/file_paths.xml",
+        "source": "/Users/mac/.android/build-cache/1ae269b2a16b48eeacdcd1e4e1ee452375136b23/output/res/xml/file_paths.xml"
+    }
+]

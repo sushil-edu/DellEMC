@@ -1,0 +1,166 @@
+[
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/drawable-mdpi/ic_gallery_logo.png",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/drawable-mdpi/ic_gallery_logo.png"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/drawable-mdpi/ic_help.png",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/drawable-mdpi/ic_help.png"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/drawable-mdpi/ic_networking.png",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/drawable-mdpi/ic_networking.png"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/drawable-mdpi/ic_speaker.png",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/drawable-mdpi/ic_speaker.png"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/drawable-mdpi/notification_icon.png",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/drawable-mdpi/notification_icon.png"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/drawable-mdpi/ic_camera.png",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/drawable-mdpi/ic_camera.png"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/drawable-mdpi/ic_location.png",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/drawable-mdpi/ic_location.png"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/drawable-mdpi/ic_menu_share.png",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/drawable-mdpi/ic_menu_share.png"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/drawable-mdpi/ic_action_tick.png",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/drawable-mdpi/ic_action_tick.png"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/drawable-mdpi/ic_location_grey.png",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/drawable-mdpi/ic_location_grey.png"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/drawable-mdpi/ic_venue.png",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/drawable-mdpi/ic_venue.png"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/drawable-mdpi/ic_user.png",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/drawable-mdpi/ic_user.png"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/drawable-mdpi/logout.png",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/drawable-mdpi/logout.png"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/drawable-mdpi/ic_close.png",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/drawable-mdpi/ic_close.png"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/drawable-mdpi/ic_action_add.png",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/drawable-mdpi/ic_action_add.png"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/drawable-mdpi/check_in.png",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/drawable-mdpi/check_in.png"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/drawable-mdpi/ic_feedback.png",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/drawable-mdpi/ic_feedback.png"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/drawable-mdpi/ic_email_logo.png",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/drawable-mdpi/ic_email_logo.png"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/drawable-mdpi/ic_camera_grey.png",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/drawable-mdpi/ic_camera_grey.png"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/drawable-mdpi/ic_phone.png",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/drawable-mdpi/ic_phone.png"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/drawable-mdpi/ic_add_circle_outline_black_24dp.png",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/drawable-mdpi/ic_add_circle_outline_black_24dp.png"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/drawable-mdpi/ic_arrow_down.png",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/drawable-mdpi/ic_arrow_down.png"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/drawable-mdpi/ic_agenda.png",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/drawable-mdpi/ic_agenda.png"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/drawable-mdpi/ic_menu_slideshow.png",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/drawable-mdpi/ic_menu_slideshow.png"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/drawable-mdpi/ic_delete.png",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/drawable-mdpi/ic_delete.png"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/drawable-mdpi/ic_add.png",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/drawable-mdpi/ic_add.png"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/drawable-mdpi/ic_pass.png",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/drawable-mdpi/ic_pass.png"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/drawable-mdpi/calendar.png",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/drawable-mdpi/calendar.png"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/drawable-mdpi/ic_add_grey.png",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/drawable-mdpi/ic_add_grey.png"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/drawable-mdpi/upload_photo.png",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/drawable-mdpi/upload_photo.png"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/drawable-mdpi/knowledge_bank.png",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/drawable-mdpi/knowledge_bank.png"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/drawable-mdpi/log_out.png",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/drawable-mdpi/log_out.png"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/drawable-mdpi/ic_polls.png",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/drawable-mdpi/ic_polls.png"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/drawable-mdpi/ic_arrow_back.png",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/drawable-mdpi/ic_arrow_back.png"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/drawable-mdpi/ic_edit.png",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/drawable-mdpi/ic_edit.png"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/drawable-mdpi/ic_activity_stream.png",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/drawable-mdpi/ic_activity_stream.png"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/drawable-mdpi/ic_time.png",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/drawable-mdpi/ic_time.png"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/drawable-mdpi/ask_question.png",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/drawable-mdpi/ask_question.png"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/drawable-mdpi/ic_email.png",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/drawable-mdpi/ic_email.png"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/drawable-mdpi/delegates.png",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/drawable-mdpi/delegates.png"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/drawable-mdpi/ic_arrow.png",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/drawable-mdpi/ic_arrow.png"
+    }
+]

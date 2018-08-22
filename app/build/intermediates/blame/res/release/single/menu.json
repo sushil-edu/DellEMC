@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/menu/activity_stream.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/menu/activity_stream.xml"
+    },
+    {
+        "merged": "/PANKAJ projects/EventApp/app/build/intermediates/res/merged/release/menu/activity_stream_drawer.xml",
+        "source": "/PANKAJ projects/EventApp/app/src/main/res/menu/activity_stream_drawer.xml"
+    }
+]

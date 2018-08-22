@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.fusedbulb.lib:fusedbulblib-1.0.0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/9f2e38e89f64e0dfcf7aca2acea888c62c0bf3fe/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/9f2e38e89f64e0dfcf7aca2acea888c62c0bf3fe/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fusedbulb.lib/fusedbulblib/1.0.0/8e48aff11f5486e2072bd020aca4e3186967b2d3/fusedbulblib-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,73 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.kestone.dellpartnersummit.Fragments.AskAQuestionFragment"
+    android:background="@color/light_grey">
+
+    <!-- TODO: Update blank fragment layout -->
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <RelativeLayout
+                android:id="@+id/topLl"
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:gravity="center_vertical">
+
+                <com.kestone.dellpartnersummit.widget.MyTextView
+                    android:id="@+id/selectTv"
+                    android:layout_width="0dp"
+                    android:layout_height="40dp"
+                    android:text="Select Track"
+                    android:gravity="center"
+                    android:textColor="@color/colorPrimary"
+                    android:textSize="13sp"
+                    android:layout_weight="1"
+                    android:visibility="gone"/>
+
+                <Spinner
+
+                    android:id="@+id/spinner"
+                    android:layout_width="0dp"
+                    android:layout_height="40dp"
+                    android:layout_weight="2"
+                    android:layout_margin="20dp"
+                    android:visibility="gone"/>
+
+                <com.kestone.dellpartnersummit.widget.MyTextView
+                    android:id="@+id/trackTv"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:text="Select Track"
+                    android:gravity="center"/>
+
+                <ImageView
+                    android:layout_width="22dp"
+                    android:layout_height="22dp"
+                    android:layout_alignParentEnd="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="20dp"
+                    android:src="@drawable/ic_arrow_down"/>
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="0.5dp"
+                    android:background="@color/blue_grey"
+                    android:layout_alignParentBottom="true"/>
+
+
+            </RelativeLayout>
+
+            <android.support.v7.widget.RecyclerView
+                android:id="@+id/recyclerView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"/>
+
+        </LinearLayout>
+
+</FrameLayout>
